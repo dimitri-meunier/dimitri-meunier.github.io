@@ -14,10 +14,14 @@ More details can be found in my [resume](../files/MeunierDimitriResume.pdf).
 
 My interests: approximate Bayesian methods, optimisation (sequential), meta learning, Kernel Methods... 
 
-ADD TEACHING
+Teaching
+======
+- Introduction to stochastic processes - Graduate (M1) - ENSAE Paris in Fall 2020 [Nicolas Chopin](https://sites.google.com/site/nicolaschopinstatistician/)
+- Tutor for first year students in Linear Algebra and Functional Analysis - Université Paris Dauphine in Fall 2017
 
-ADD THESIS
-
+Master's Thesis
+======
+I worked on ... preprint in preparation. 
 
 
 
