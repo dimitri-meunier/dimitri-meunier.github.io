@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I currently hold a research intern position at CREST (Center for Research in Economics and Statistics) for a remote collaboration with the Approximate Bayesian Inference Team at RIKEN AIP, working with Pierre Alquier and Emtiyaz Khan.
-Prior to that, I received a MSc in Statistics from ENSAE Institut Polytechnique de Paris and a MRes in Mathematics and Machine Learning (MVA Master) from ENS Paris-Saclay.
-My main research interests lie in variational inference for approximating intractable posterior distributions in Bayesian statistics and machine learning. Kernel methods, next experiments ...
-You can find in my master thesis.
+I currently hold a research intern position at [CREST](http://crest.science) (Center for Research in Economics and Statistics) for a remote collaboration with the [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io "ApproxBayesTeam") of the [RIKEN Center for Advanced Intelligence Project](https://aip.riken.jp "RikenAIP") in Tokyo, Japan, working with [Pierre Alquier](https://pierrealquier.github.io) and [Emtiyaz Khan](https://emtiyaz.github.io).
+
+
+
