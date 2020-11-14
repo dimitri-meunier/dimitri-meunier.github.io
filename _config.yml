@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dimitri Meunier"
+  name             : #"Dimitri Meunier"
   avatar           : "pp.jpg"
   bio              : "Graduate Student at ENSAE and ENS Paris Saclay (MVA)"
   location         : 
