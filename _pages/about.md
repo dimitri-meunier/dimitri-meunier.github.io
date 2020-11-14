@@ -21,7 +21,8 @@ Teaching
 
 Master's Thesis
 ======
-I worked on ... preprint in preparation. 
+![alt text](../images/metagraph.png) I worked on ...
+
 
 
 
