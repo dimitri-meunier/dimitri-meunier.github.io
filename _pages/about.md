@@ -21,7 +21,8 @@ Teaching
 
 Master's Thesis
 ======
-<img src="../images/metagraph.png" alt="alt text" width="500"/> I worked on ...
+<img style="float: right;" src="../images/metagraph.png" width="500"> I worked on ...
+
 
 
 
