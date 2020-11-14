@@ -11,7 +11,7 @@ title                    : "Dimitri Meunier"
 title_separator          : "-"
 name                     : &name "Dimitri Meunier"
 description              : &description "Graduate Student at ENSAE and ENS Paris Saclay (MVA)"
-url                      : https://dimitri-meunier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://dimitri-meunier.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dimitri-meunier/dimitri-meunier.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "DimSum2k20
+  github           : "DimSum2k20"
   google_plus      :
   keybase          :
   instagram        :
