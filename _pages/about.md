@@ -21,7 +21,8 @@ Teaching
 
 Master's Thesis
 ======
-<img style="float: right;" src="../images/metagraph.png" width="500"> I worked on ...
+<img align="left" src="../images/metagraph.png" width="500"> 
+[Meta Learning Meets Variational Inference, Learning Priors with Guarantees](../files/RikenReport.pdf)
 
 
 
