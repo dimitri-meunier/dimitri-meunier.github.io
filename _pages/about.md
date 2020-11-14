@@ -21,7 +21,7 @@ Teaching
 
 Master's Thesis
 ======
-<img src="file://../images/metagraph.png" alt="alt text" width="200"/>
+<img src="../images/metagraph.png" alt="alt text" width="200"/>
 
 ![alt text](../images/metagraph.png) I worked on ...
 
