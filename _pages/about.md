@@ -23,7 +23,7 @@ Master's Thesis
 ======
 <img align="left" src="../images/metagraph.png" width="500"> 
 
-[Meta Learning Meets Variational Inference, Learning Priors with Guarantees](../files/RikenReport.pdf) Master's thesis (related preprint under preparation)
+[Meta Learning Meets Variational Inference, Learning Priors with Guarantees.](../files/RikenReport.pdf) Master's thesis (related preprint under preparation).
 
 
 
