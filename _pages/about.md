@@ -39,9 +39,9 @@ Education
 
 [Curriculum Vitae](../files/MeunierDimitriResume.pdf).
 
-MSc in Statistics & Machine Learning, ENS Paris-Saclay, 2019-2020
-MSc in Statistics & Economics, ENSAE Paris, 2018-2020
-BSc in Mathematics, Université Paris Dauphine, 2014-2018
+- MSc in Statistics & Machine Learning, ENS Paris-Saclay, 2019-2020
+- MSc in Statistics & Economics, ENSAE Paris, 2018-2020
+- BSc in Mathematics, Université Paris Dauphine, 2014-2018
 
 
 
