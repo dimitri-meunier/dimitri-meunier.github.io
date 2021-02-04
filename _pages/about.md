@@ -29,7 +29,7 @@ Master's Thesis
 
 Teaching
 ======
-- Introduction to stochastic processes - Graduate (M1) - ENSAE Paris in Fall 2020 with [Nicolas Chopin](https://sites.google.com/site/nicolaschopinstatistician/)
+- Introduction to stochastic processes - Graduate (M1) - ENSAE Paris in Fall 2020 with [Nicolas Chopin](https://nchopin.github.io)
 - Tutor for first year students in Linear Algebra and Functional Analysis - Université Paris Dauphine in Fall 2017
 
 Education
