@@ -24,6 +24,8 @@ Master's Thesis
 
 [Meta Learning Meets Variational Inference, Learning Priors with Guarantees.](../files/RikenReport.pdf) Master's thesis.
 
+&nbsp;  
+
 Teaching
 ======
 - Introduction to stochastic processes - Graduate (M1) - ENSAE Paris in Fall 2020 with [Nicolas Chopin](https://sites.google.com/site/nicolaschopinstatistician/)
