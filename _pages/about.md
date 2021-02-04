@@ -14,16 +14,20 @@ I graduated the Master [MVA](http://math.ens-paris-saclay.fr/version-francaise/f
 
 At RIKEN I worked mainly on the theoretical aspects of Generalized Variational Inference, (sequential) optimisation and meta learning. I'm also interested in Kernel Methods, Optimal Transport, Gaussian Processes and Reinforcement Learning.
 
-Teaching
+Preprint
 ======
-- Introduction to stochastic processes - Graduate (M1) - ENSAE Paris in Fall 2020 with [Nicolas Chopin](https://sites.google.com/site/nicolaschopinstatistician/)
-- Tutor for first year students in Linear Algebra and Functional Analysis - Université Paris Dauphine in Fall 2017
+Meta-strategy for Learning Tuning Parameters with Guarantees. Meunier, D.; Alquier, P. 2021. Submitted.
 
 Master's Thesis
 ======
 <img align="left" src="../images/metagraph.png" width="500"> 
 
-[Meta Learning Meets Variational Inference, Learning Priors with Guarantees.](../files/RikenReport.pdf) Master's thesis (related preprint under preparation).
+[Meta Learning Meets Variational Inference, Learning Priors with Guarantees.](../files/RikenReport.pdf) Master's thesis.
+
+Teaching
+======
+- Introduction to stochastic processes - Graduate (M1) - ENSAE Paris in Fall 2020 with [Nicolas Chopin](https://sites.google.com/site/nicolaschopinstatistician/)
+- Tutor for first year students in Linear Algebra and Functional Analysis - Université Paris Dauphine in Fall 2017
 
 Education
 ======
