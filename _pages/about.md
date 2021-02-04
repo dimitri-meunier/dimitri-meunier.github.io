@@ -16,7 +16,7 @@ At RIKEN I worked mainly on the theoretical aspects of Generalized Variational I
 
 Preprint
 ======
-Meta-strategy for Learning Tuning Parameters with Guarantees. Meunier, D.; Alquier, P. 2021. Submitted. Paper. [pdf](../files/paperv1_ARXIV.pdf). Code.
+Meta-strategy for Learning Tuning Parameters with Guarantees. Meunier, D.; Alquier, P. 2021. Submitted. Paper. [pdf](../files/paperv1_ARXIV.pdf). [Code](../files/Test.ipynb.zip).
 
 Master's Thesis
 ======
