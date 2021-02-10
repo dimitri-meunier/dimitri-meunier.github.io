@@ -82,12 +82,12 @@ analytics:
 author:
   name             : #"Dimitri Meunier"
   avatar           : "pp.jpg"
-  bio              : "Graduate Student at ENSAE and ENS Paris Saclay (MVA)"
+  bio              : "Research assistant, Istituto Italiano di Tecnologia"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_04YU0EAAAAJ&hl=en&oi=sra"
-  email            : "dimitrimeunier45@gmail.com"
+  email            : "dimitri.meunier@iit.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
