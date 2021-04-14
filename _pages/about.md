@@ -14,9 +14,9 @@ I currently hold a research assistant position at the [Istituto Italiano di Tecn
 
 I graduated the Master [MVA](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/) (Machine Learning and Computer Vision) from [ENS Paris Saclay](https://ens-paris-saclay.fr/en) and obtained the engineering degree of [ENSAE](https://www.ensae.fr/en/) specialising in Statistics. Prior to that, I received a BSc in Mathematics from the [Université Paris Dauphine](https://dauphine.psl.eu/en/) and spent a thrilling semester at the [University of Honk Kong](https://www.hku.hk). 
 
-I will start my Ph.D. studies at the Gatsby Computational Neuroscience Unit in London in Fall 2021.
+I will start my Ph.D. studies at the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/study-and-work/phd-programme) in London in Fall 2021. 
 
-At RIKEN I worked mainly on the theoretical aspects of Generalized Variational Inference, (sequential) optimisation and meta learning. I'm also interested in Kernel Methods, Optimal Transport, Gaussian Processes and Reinforcement Learning.
+At RIKEN I worked on the theoretical aspects of Variational Inference and meta learning. My research interests span, optimisation, reproducing kernel hilbert spaces, optimal transport and bayesian inference. I am particularly fond of functional analysis, measure and integration theory and high-dimensional probability. 
 
 Preprint
 ======
