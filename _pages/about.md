@@ -22,7 +22,7 @@ Master's Thesis (2020)
 ======
 
 - Thesis: [Meta Learning Meets Variational Inference, Learning Priors with Guarantees.](../files/RikenReport.pdf)
-- Technical report: Meta-strategy for Learning Tuning Parameters with Guarantees. Meunier, D.; Alquier, P. [Paper](https://arxiv.org/abs/2102.02504),[Code](../files/Test.ipynb.zip).
+- Technical report: Meta-strategy for Learning Tuning Parameters with Guarantees. Meunier, D.; [Alquier, P.](https://pierrealquier.github.io/index.html) [Paper](https://arxiv.org/abs/2102.02504),[Code](../files/Test.ipynb.zip).
 
 <img src="../images/metagraph.png" width="500"> 
 
