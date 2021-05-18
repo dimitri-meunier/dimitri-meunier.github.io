@@ -18,8 +18,6 @@ I will start my Ph.D. studies at the [Gatsby Computational Neuroscience Unit](ht
 
 At RIKEN I worked on the theoretical aspects of Variational Inference and meta learning. My research interests span optimisation, reproducing kernel hilbert spaces, optimal transport and bayesian inference. I am particularly fond of functional analysis, measure and integration theory and high-dimensional probability. 
 
-<Preprint >
-
 Master's Thesis (2020)
 ======
 
@@ -27,9 +25,6 @@ Master's Thesis (2020)
 - Technical report: Meta-strategy for Learning Tuning Parameters with Guarantees. Meunier, D.; Alquier, P. [Paper](https://arxiv.org/abs/2102.02504),[Code](../files/Test.ipynb.zip).
 
 <img align="left" src="../images/metagraph.png" width="500"> 
-
-&nbsp; 
-&nbsp;  
 
 Teaching
 ======
