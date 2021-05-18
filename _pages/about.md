@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -23,7 +23,7 @@ Preprint
 
 Master's Thesis (2020)
 ======
-<img align="left" src="../images/metagraph.png" width="500"> 
+<img align="left" src="../images/metagraph.png" width="400"> 
 
 - Thesis: [Meta Learning Meets Variational Inference, Learning Priors with Guarantees.](../files/RikenReport.pdf)
 - Technical report: Meta-strategy for Learning Tuning Parameters with Guarantees. Meunier, D.; Alquier, P. [Paper](https://arxiv.org/abs/2102.02504),[Code](../files/Test.ipynb.zip).
