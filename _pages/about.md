@@ -20,13 +20,13 @@ At RIKEN I worked on the theoretical aspects of Variational Inference and meta l
 
 Preprint
 ======
-Meta-strategy for Learning Tuning Parameters with Guarantees. Meunier, D.; Alquier, P. 2021. Submitted. [Paper](https://arxiv.org/abs/2102.02504). [pdf](../files/paperv1_ARXIV.pdf). [Code](../files/Test.ipynb.zip).
 
-Master's Thesis
+Master's Thesis (2020)
 ======
 <img align="left" src="../images/metagraph.png" width="500"> 
 
-[Meta Learning Meets Variational Inference, Learning Priors with Guarantees.](../files/RikenReport.pdf) (2020)
+- Thesis: [Meta Learning Meets Variational Inference, Learning Priors with Guarantees.](../files/RikenReport.pdf)
+- Technical report: Meta-strategy for Learning Tuning Parameters with Guarantees. Meunier, D.; Alquier, P. [Paper](https://arxiv.org/abs/2102.02504),[Code](../files/Test.ipynb.zip).
 
 &nbsp; 
 &nbsp;  
