@@ -16,9 +16,9 @@ I graduated the Master [MVA](http://math.ens-paris-saclay.fr/version-francaise/f
 
 At RIKEN I worked on the theoretical aspects of Variational Inference and meta learning. My research interests span optimisation, reproducing kernel hilbert spaces, optimal transport and bayesian inference. I am particularly fond of functional analysis, measure and integration theory and high-dimensional probability. 
 
-<blink>
-NEWS
-</blink>
+
+*NEWS*
+
 I will start my Ph.D. studies at the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/study-and-work/phd-programme) in London in Fall 2021. 
 
 Master's Thesis (2020)
