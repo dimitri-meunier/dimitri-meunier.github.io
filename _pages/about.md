@@ -19,7 +19,7 @@ At RIKEN I worked on the theoretical aspects of Variational Inference and meta l
 
 *NEWS*
 
-I will start my Ph.D. studies at the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/study-and-work/phd-programme) in London in Fall 2021. 
+I will start my Ph.D. studies at the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/study-and-work/phd-programme) in London in Fall 2021 as a [ELLIS](https://ellis.eu/phd-postdoc) PhD student
 
 Master's Thesis (2020)
 ======
