@@ -20,8 +20,7 @@ I graduated the Master [MVA](http://math.ens-paris-saclay.fr/version-francaise/f
 
 Submitted preprints
 ======
-- Distribution Regression with Sliced Wasserstein Kernels. Meunier, D.; [Pontil, M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/); [Ciliberto, C.](https://cciliber.github.io) 
-<!-- [arXiv:2102.02504](https://arxiv.org/abs/2102.02504) -->
+- Distribution Regression with Sliced Wasserstein Kernels. Meunier, D.; [Pontil, M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/); [Ciliberto, C.](https://cciliber.github.io) [arXiv:2202.03926](https://arxiv.org/abs/2202.03926).
 
 Journal
 ======
