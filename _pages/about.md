@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my homepage, my name is Dimitri.
+Hi, welcome to my homepage.
 
-I am a first year PhD student in the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/study-and-work/phd-programme) at [UCL](https://www.ucl.ac.uk) since the Fall 2021 and an [ELLIS](https://ellis.eu/phd-postdoc) PhD student.
+I am a first year PhD student in the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/study-and-work/phd-programme) at [UCL](https://www.ucl.ac.uk) and an [ELLIS](https://ellis.eu/phd-postdoc) PhD student.
 
 Previously, I was a research assistant at the [Istituto Italiano di Tecnologia](https://iit.it) in the [Computational Statistics and Machine Learning](https://www.iit.it/research/lines/computational-statistics-and-machine-learning) team in Genoa, working with [Massimiliano Pontil](https://scholar.google.com/citations?user=lcOacs8AAAAJ&hl=en) and [Carlo Ciliberto](https://scholar.google.com/citations?user=XUcUAisAAAAJ&hl=en). From May 2020 to November 2020, I was a (remote) research intern with [Pierre Alquier](https://pierrealquier.github.io) and [Emtiyaz Khan](https://emtiyaz.github.io) in the [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io "ApproxBayesTeam") of the [RIKEN Center for Advanced Intelligence Project](https://aip.riken.jp "RikenAIP") in Tokyo.
 
-I graduated the Master [MVA](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/) (Machine Learning and Computer Vision) from [ENS Paris Saclay](https://ens-paris-saclay.fr/en) and obtained the engineering degree of [ENSAE](https://www.ensae.fr/en/) specialising in Statistics. Prior to that, I received a BSc in Mathematics from the [Université Paris Dauphine](https://dauphine.psl.eu/en/) and spent a thrilling semester at the [University of Honk Kong](https://www.hku.hk). 
+I graduated the Master [MVA](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/) (Machine Learning and Computer Vision) from [ENS Paris Saclay](https://ens-paris-saclay.fr/en) and obtained the engineering degree of [ENSAE](https://www.ensae.fr/en/) specialising in Statistics. Prior to that, I received a BSc in Mathematics from the [Université Paris Dauphine](https://dauphine.psl.eu/en/) and spent a semester at the [University of Honk Kong](https://www.hku.hk). 
 
 <!-- At RIKEN I worked on the theoretical aspects of Variational Inference and meta learning. My research interests span optimisation, reproducing kernel hilbert spaces, optimal transport and bayesian inference. I am particularly fond of functional analysis, measure and integration theory and high-dimensional probability.--> 
 
-Submitted preprints
+Conference
 ======
-- Distribution Regression with Sliced Wasserstein Kernels. Meunier, D.; [Pontil, M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/); [Ciliberto, C.](https://cciliber.github.io) [arXiv:2202.03926](https://arxiv.org/abs/2202.03926).
+- Distribution Regression with Sliced Wasserstein Kernels. Meunier, D.; [Pontil, M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/); [Ciliberto, C.](https://cciliber.github.io) [arXiv:2202.03926](https://arxiv.org/abs/2202.03926). To appear in the Proceedings of the 39th International Conference on Machine Learning (ICML).
 
 Journal
 ======
