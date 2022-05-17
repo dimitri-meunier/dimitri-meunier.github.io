@@ -20,7 +20,8 @@ I graduated the Master [MVA](http://math.ens-paris-saclay.fr/version-francaise/f
 
 Conference
 ======
-- Distribution Regression with Sliced Wasserstein Kernels. Meunier, D.; [Pontil, M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/); [Ciliberto, C.](https://cciliber.github.io) [arXiv:2202.03926](https://arxiv.org/abs/2202.03926). To appear in the Proceedings of the 39th International Conference on Machine Learning (ICML).
+- Distribution Regression with Sliced Wasserstein Kernels. Meunier, D.; [Pontil, M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/); [Ciliberto, C.](https://cciliber.github.io) [arXiv:2202.03926](https://arxiv.org/abs/2202.03926). To appear in the Proceedings of the 39th International Conference on Machine Learning (ICML) 2022.
+<img src="../images/gmm_ex.png" width="700"> 
 
 Journal
 ======
