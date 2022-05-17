@@ -25,11 +25,11 @@ Conference
 Journal
 ======
 - [Meta-strategy for Learning Tuning Parameters with Guarantees](https://www.mdpi.com/1099-4300/23/10/1257). Meunier, D.; [Alquier, P.](https://pierrealquier.github.io/index.html) [arXiv:2102.02504](https://arxiv.org/abs/2102.02504), [Code](../files/supplement.zip). Entropy, 2021, vol. 23, no. 10, 1257. Part of the special issue on [Approximate Bayesian Inference](https://www.mdpi.com/journal/entropy/special_issues/approx_Bayes_inference).
+<img src="../images/metagraph.png" width="700"> 
 
 Master's Thesis
 ======
 - [Meta Learning Meets Variational Inference, Learning Priors with Guarantees.](../files/RikenReport.pdf) (2020)
-<img src="../images/metagraph.png" width="700"> 
 
 Teaching
 ======
