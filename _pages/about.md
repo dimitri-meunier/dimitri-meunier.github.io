@@ -25,10 +25,10 @@ Conference
     <img style="float: right;" src="../images/gmm_ex.png" width="350"> 
   </div>
   <div class="text"> -->
-- Distribution Regression with Sliced Wasserstein Kernels. Meunier, D.; [Pontil, M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/); [Ciliberto, C.](https://cciliber.github.io) [arXiv:2202.03926](https://arxiv.org/abs/2202.03926). To appear in the Proceedings of the 39th International Conference on Machine Learning (ICML) 2022.
+- Distribution Regression with Sliced Wasserstein Kernels. Meunier, D.; [Pontil, M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/); [Ciliberto, C.](https://cciliber.github.io) Proceedings of the 39th International Conference on Machine Learning (ICML), Proceedings of Machine Learning Research, 2022, vol. 162, pp. 15501--15523. Available on [arXiv:2202.03926](https://arxiv.org/abs/2202.03926).
 <!--      </div>
     </div> -->
-
+    
 Journal
 ======
 - [Meta-strategy for Learning Tuning Parameters with Guarantees](https://www.mdpi.com/1099-4300/23/10/1257). Meunier, D.; [Alquier, P.](https://pierrealquier.github.io/index.html) [arXiv:2102.02504](https://arxiv.org/abs/2102.02504), [Code](../files/supplement.zip). Entropy, 2021, vol. 23, no. 10, 1257. Part of the special issue on [Approximate Bayesian Inference](https://www.mdpi.com/journal/entropy/special_issues/approx_Bayes_inference).
