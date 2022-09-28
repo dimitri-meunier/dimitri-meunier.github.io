@@ -23,7 +23,7 @@ I graduated the Master [MVA](http://math.ens-paris-saclay.fr/version-francaise/f
 
 Conference
 ======
-- [Z. Li](https://www.linkedin.com/in/zhu-l-145a2216a/?trk=public_profile_browsemap_profile-result-card_result-card_full-click&originalSubdomain=uk)*, **D. Meunier***, [M. Mollenhauer](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [A. Gretton](https://www.gatsby.ucl.ac.uk/~gretton/), Optimal Rates for Regularized Conditional Mean Embedding Learning, 2022, to appear in Advances in Neural Information Processing Systems 36 (NeurIPS). Available on [arXiv:2208.01711](https://arxiv.org/abs/2208.01711). (* Equal contribution)
+- [Z. Li](https://www.linkedin.com/in/zhu-l-145a2216a/?trk=public_profile_browsemap_profile-result-card_result-card_full-click&originalSubdomain=uk)\*, **D. Meunier**\*, [M. Mollenhauer](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [A. Gretton](https://www.gatsby.ucl.ac.uk/~gretton/), Optimal Rates for Regularized Conditional Mean Embedding Learning, 2022, to appear in Advances in Neural Information Processing Systems 36 (NeurIPS). Available on [arXiv:2208.01711](https://arxiv.org/abs/2208.01711). (* Equal contribution)
 
 <!--<div class="container">
   <div class="image">
@@ -36,7 +36,7 @@ Conference
     
 Journal
 ======
-- [Meta-strategy for Learning Tuning Parameters with Guarantees](https://www.mdpi.com/1099-4300/23/10/1257). Meunier, D.; [Alquier, P.](https://pierrealquier.github.io/index.html) [arXiv:2102.02504](https://arxiv.org/abs/2102.02504), [Code](../files/supplement.zip). Entropy, 2021, vol. 23, no. 10, 1257. Part of the special issue on [Approximate Bayesian Inference](https://www.mdpi.com/journal/entropy/special_issues/approx_Bayes_inference).
+- [Meta-strategy for Learning Tuning Parameters with Guarantees](https://www.mdpi.com/1099-4300/23/10/1257). **Meunier, D.**; [Alquier, P.](https://pierrealquier.github.io/index.html) [arXiv:2102.02504](https://arxiv.org/abs/2102.02504), [Code](../files/supplement.zip). Entropy, 2021, vol. 23, no. 10, 1257. Part of the special issue on [Approximate Bayesian Inference](https://www.mdpi.com/journal/entropy/special_issues/approx_Bayes_inference).
 <img src="../images/metagraph.png" width="700"> 
 
 Master's Thesis
