@@ -21,6 +21,10 @@ I graduated the Master [MVA](http://math.ens-paris-saclay.fr/version-francaise/f
 <!--Submitted preprints
 ====== -->
 
+<blink>
+   News
+</blink>
+
 Conference
 ======
 - [Z. Li](https://www.linkedin.com/in/zhu-l-145a2216a/?trk=public_profile_browsemap_profile-result-card_result-card_full-click&originalSubdomain=uk), D. Meunier, [M. Mollenhauer](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [A. Gretton](https://www.gatsby.ucl.ac.uk/~gretton/), Optimal Rates for Regularized Conditional Mean Embedding Learning, 2022, to appear in Advances in Neural Information Processing Systems 36 (NeurIPS). Available on [arXiv:2208.01711](https://arxiv.org/abs/2208.01711).
