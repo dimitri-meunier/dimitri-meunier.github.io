@@ -23,14 +23,14 @@ I graduated the Master [MVA](http://math.ens-paris-saclay.fr/version-francaise/f
 
 Conference
 ======
-- [Z. Li](https://www.linkedin.com/in/zhu-l-145a2216a/?trk=public_profile_browsemap_profile-result-card_result-card_full-click&originalSubdomain=uk), D. Meunier, [M. Mollenhauer](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [A. Gretton](https://www.gatsby.ucl.ac.uk/~gretton/), Optimal Rates for Regularized Conditional Mean Embedding Learning, 2022, to appear in Advances in Neural Information Processing Systems 36 (NeurIPS). Available on [arXiv:2208.01711](https://arxiv.org/abs/2208.01711).
+- [Z. Li](https://www.linkedin.com/in/zhu-l-145a2216a/?trk=public_profile_browsemap_profile-result-card_result-card_full-click&originalSubdomain=uk)*, **D. Meunier***, [M. Mollenhauer](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [A. Gretton](https://www.gatsby.ucl.ac.uk/~gretton/), Optimal Rates for Regularized Conditional Mean Embedding Learning, 2022, to appear in Advances in Neural Information Processing Systems 36 (NeurIPS). Available on [arXiv:2208.01711](https://arxiv.org/abs/2208.01711). (* Equal contribution)
 
 <!--<div class="container">
   <div class="image">
     <img style="float: right;" src="../images/gmm_ex.png" width="350"> 
   </div>
   <div class="text"> -->
-- Distribution Regression with Sliced Wasserstein Kernels. Meunier, D.; [Pontil, M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/); [Ciliberto, C.](https://cciliber.github.io) Proceedings of the 39th International Conference on Machine Learning (ICML), Proceedings of Machine Learning Research, 2022, vol. 162, pp. 15501--15523. Available on [arXiv:2202.03926](https://arxiv.org/abs/2202.03926).
+- Distribution Regression with Sliced Wasserstein Kernels. **Meunier, D.**; [Pontil, M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/); [Ciliberto, C.](https://cciliber.github.io) Proceedings of the 39th International Conference on Machine Learning (ICML), Proceedings of Machine Learning Research, 2022, vol. 162, pp. 15501--15523. Available on [arXiv:2202.03926](https://arxiv.org/abs/2202.03926).
 <!--      </div>
     </div> -->
     
