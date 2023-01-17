@@ -45,17 +45,32 @@ Master's Thesis
 
 Teaching
 ======
-- Introduction to stochastic processes - Graduate (M1) - ENSAE Paris in Fall 2020 with [Nicolas Chopin](https://nchopin.github.io)
-- Tutor for first year students in Linear Algebra and Functional Analysis - Université Paris Dauphine in Fall 2017
+- Advanced Topics in Machine Learning, Kernel Methods - Computational Statistics and Machine Learning MSc - UCL - Fall 20222 with [Arthur Gretton]([https://nchopin.github.io](https://www.gatsby.ucl.ac.uk/~gretton/))
+- Introduction to stochastic processes - Graduate (M1) - ENSAE Paris - Fall 2020 with [Nicolas Chopin](https://nchopin.github.io)
+- Tutor for first year students in Linear Algebra and Functional Analysis - Université Paris Dauphine - Fall 2017
 
 Education
 ======
 
-[Curriculum Vitae](../files/MeunierDimitriResume.pdf)
+<!--[Curriculum Vitae](../files/MeunierDimitriResume.pdf) -->
 
 - MSc in Statistics & Machine Learning, ENS Paris-Saclay, 2019-2020
 - MSc in Statistics & Economics, ENSAE Paris, 2018-2020
 - BSc in Mathematics, Université Paris Dauphine, 2014-2018
+
+Reading groups
+======
+- Organiser of the Machine Learning Journal Club at Gatsby CNU, UCL, 2022-2023
+- High-Dimensional Probability: An Introduction with Applications in Data Science, Roman Vershynin - Ongoing
+- Introductory Functional Analysis with Application, Erwin Kreyszig, June 2022 - December 2022
+- Learning Theory from First Principles, Francis Bach, April 2021 - September 2021
+
+Attendance
+======
+- Meeting in Mathematical Statistics 2022, CIRM, Marseille
+- Neurips 2022, New Orleans
+- ICML 2022, Baltimore
+- COLT 2022, London
 
 
 
