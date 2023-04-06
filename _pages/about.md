@@ -61,7 +61,7 @@ Education
 Reading groups
 ======
 - Organiser of the Machine Learning Journal Club at Gatsby CNU, UCL, 2022-2023
-- High-Dimensional Probability: An Introduction with Applications in Data Science, Roman Vershynin - Ongoing
+- High-Dimensional Probability: An Introduction with Applications in Data Science, Roman Vershynin - January 2023 - March 2023
 - Introductory Functional Analysis with Application, Erwin Kreyszig, June 2022 - December 2022
 - Learning Theory from First Principles, Francis Bach, April 2021 - September 2021
 
