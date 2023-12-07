@@ -71,10 +71,10 @@ Reading groups
 
 Attendance
 ======
-- Meeting in Mathematical Statistics 2022, CIRM, Marseille
-- Neurips 2022, New Orleans
-- ICML 2022, Baltimore
-- COLT 2022, London
+- [Meeting in Mathematical Statistics 2022](https://www.i2m.univ-amu.fr/events/meeting-in-mathematical-statistics-2022/), CIRM, Marseille
+- [Neurips 2022](https://nips.cc/Conferences/2022), New Orleans
+- [ICML 2022](https://icml.cc/Conferences/2022), Baltimore
+- [COLT 2022](https://learningtheory.org/colt2022/), London
 
 
 
