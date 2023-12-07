@@ -24,9 +24,13 @@ At RIKEN I worked on the theoretical aspects of Variational Inference and meta l
 <!--Submitted preprints
 ====== -->
 
+Submitted preprints
+======
+- **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Kpotufe S.](http://www.columbia.edu/~skk2175/), Nonlinear Meta-Learning Can Guarantee Faster Rates, 2023.
+
 Conference
 ======
-- [Li Z.](https://www.linkedin.com/in/zhu-l-145a2216a/?trk=public_profile_browsemap_profile-result-card_result-card_full-click&originalSubdomain=uk)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Optimal Rates for Regularized Conditional Mean Embedding Learning, 2022, to appear in Advances in Neural Information Processing Systems 36 (NeurIPS) as an oral presentation. Available on [arXiv:2208.01711](https://arxiv.org/abs/2208.01711). (* Equal contribution)
+- [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Optimal Rates for Regularized Conditional Mean Embedding Learning, 2022, to appear in Advances in Neural Information Processing Systems 36 (NeurIPS) as an oral presentation. Available on [arXiv:2208.01711](https://arxiv.org/abs/2208.01711). (* Equal contribution)
 
 <!--<div class="container">
   <div class="image">
