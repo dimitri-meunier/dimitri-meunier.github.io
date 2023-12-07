@@ -71,10 +71,11 @@ Reading groups
 
 Attendance
 ======
-- [Meeting in Mathematical Statistics 2022](https://www.i2m.univ-amu.fr/events/meeting-in-mathematical-statistics-2022/), CIRM, Marseille
-- [Neurips 2022](https://nips.cc/Conferences/2022), New Orleans
-- [ICML 2022](https://icml.cc/Conferences/2022), Baltimore
-- [COLT 2022](https://learningtheory.org/colt2022/), London
+- [Gradient Flows For Sampling, Inference, and Learning](https://rss.org.uk/training-events/events/events-2023/sections/gradient-flows-for-sampling,-inference,-and-learni/#eventoverview), Royal Statistical Society, 2023 
+- [Meeting in Mathematical Statistics](https://www.i2m.univ-amu.fr/events/meeting-in-mathematical-statistics-2022/), CIRM, Marseille,  2022
+- [Neurips](https://nips.cc/Conferences/2022), New Orleans, 2022
+- [ICML](https://icml.cc/Conferences/2022), Baltimore, 2022
+- [COLT](https://learningtheory.org/colt2022/), London, 2022
 
 
 
