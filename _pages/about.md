@@ -48,7 +48,7 @@ Master's Thesis
 
 Teaching
 ======
-- Advanced Topics in Machine Learning, Kernel Methods - Computational Statistics and Machine Learning MSc - UCL - Fall 2022 with [Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/)
+- Advanced Topics in Machine Learning, [Kernel Methods](http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html) - Computational Statistics and Machine Learning MSc - UCL - Fall 2022 & 2023 with [Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/)
 - Introduction to stochastic processes - Graduate (M1) - ENSAE Paris - Fall 2020 with [Nicolas Chopin](https://nchopin.github.io)
 - Tutor for first year students in Linear Algebra and Functional Analysis - Université Paris Dauphine - Fall 2017
 
