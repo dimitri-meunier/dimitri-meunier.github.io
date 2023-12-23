@@ -82,7 +82,7 @@ analytics:
 author:
   name             : #"Dimitri Meunier"
   avatar           : "pp.jpg"
-  bio              : "2nd year PhD student in Machine Learning"
+  bio              : "3rd year PhD student in Machine Learning"
   location         : 
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "dimitri-meunier"
+  linkedin         : #"dimitri-meunier"
   orcid            : 
   pinterest        :
   soundcloud       :
