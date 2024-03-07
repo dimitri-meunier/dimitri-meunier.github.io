@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, welcome to my homepage.
 
-I am a second year PhD student in the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/study-and-work/phd-programme) at [UCL](https://www.ucl.ac.uk) and an [ELLIS](https://ellis.eu/phd-postdoc) PhD student.
+I am a third year PhD student in the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/study-and-work/phd-programme) at [UCL](https://www.ucl.ac.uk) and an [ELLIS](https://ellis.eu/phd-postdoc) PhD student.
 
 Previously, I was a research assistant at the [Istituto Italiano di Tecnologia](https://iit.it) in the [Computational Statistics and Machine Learning](https://www.iit.it/research/lines/computational-statistics-and-machine-learning) team in Genoa, working with [Massimiliano Pontil](https://scholar.google.com/citations?user=lcOacs8AAAAJ&hl=en) and [Carlo Ciliberto](https://scholar.google.com/citations?user=XUcUAisAAAAJ&hl=en). From May 2020 to November 2020, I was a (remote) research intern with [Pierre Alquier](https://pierrealquier.github.io) and [Emtiyaz Khan](https://emtiyaz.github.io) in the [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io "ApproxBayesTeam") of the [RIKEN Center for Advanced Intelligence Project](https://aip.riken.jp "RikenAIP") in Tokyo.
 
@@ -76,6 +76,7 @@ Reading groups
 
 Attendance
 ======
+- [Machine Learning Summer School](https://groups.oist.jp/mlss), OIST, Okinawa, 2024
 - [Gradient Flows For Sampling, Inference, and Learning](https://rss.org.uk/training-events/events/events-2023/sections/gradient-flows-for-sampling,-inference,-and-learni/#eventoverview), Royal Statistical Society, 2023 
 - [Meeting in Mathematical Statistics](https://www.i2m.univ-amu.fr/events/meeting-in-mathematical-statistics-2022/), CIRM, Marseille,  2022
 - [Neurips](https://nips.cc/Conferences/2022), New Orleans, 2022
