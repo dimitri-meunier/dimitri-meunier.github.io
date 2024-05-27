@@ -26,7 +26,7 @@ At RIKEN I worked on the theoretical aspects of Variational Inference and meta l
 
 Submitted preprints
 ======
-- **Meunier D.**\*, Zikai Shen\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Li Z.](https://zhuli-michael.github.io), Optimal Rates for Vector-Valued Spectral Regularization Learning Algorithms. (* Equal contribution)
+- **Meunier D.**\*, Zikai Shen\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Li Z.](https://zhuli-michael.github.io), Optimal Rates for Vector-Valued Spectral Regularization Learning Algorithms, 2024. Available on [arxiv:2405.14778](https://arxiv.org/abs/2405.14778). (* Equal contribution)
 - **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Kpotufe S.](http://www.columbia.edu/~skk2175/), Nonlinear Meta-Learning Can Guarantee Faster Rates, 2023. Available on [arxiv:2307.10870](https://arxiv.org/abs/2307.10870). Presented at the NeurIPS 2023 Workshop [Mathematics of Modern Machine Learning (M3L)](https://sites.google.com/view/m3l-2023). (* Equal contribution)
 - [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Towards Optimal Sobolev Norm Rates for the Vector-Valued Regularized Least-Squares Algorithm, 2023. Available on [arxiv:2312.07186](https://arxiv.org/abs/2312.07186). (* Equal contribution)
 
@@ -77,9 +77,10 @@ Reading groups
 
 Attendance
 ======
+- [Learning and Optimization in Luminy – LOL](https://conferences.cirm-math.fr/3003.html), CIRM, Luminy,  2024
 - [Machine Learning Summer School](https://groups.oist.jp/mlss), OIST, Okinawa, 2024
 - [Gradient Flows For Sampling, Inference, and Learning](https://rss.org.uk/training-events/events/events-2023/sections/gradient-flows-for-sampling,-inference,-and-learni/#eventoverview), Royal Statistical Society, 2023 
-- [Meeting in Mathematical Statistics](https://www.i2m.univ-amu.fr/events/meeting-in-mathematical-statistics-2022/), CIRM, Marseille,  2022
+- [Meeting in Mathematical Statistics](https://www.i2m.univ-amu.fr/events/meeting-in-mathematical-statistics-2022/), CIRM, Luminy,  2022
 - [Neurips](https://nips.cc/Conferences/2022), New Orleans, 2022
 - [ICML](https://icml.cc/Conferences/2022), Baltimore, 2022
 - [COLT](https://learningtheory.org/colt2022/), London, 2022
