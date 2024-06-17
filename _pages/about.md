@@ -28,7 +28,7 @@ Submitted preprints
 ======
 - **Meunier D.**\*, Zikai Shen\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Li Z.](https://zhuli-michael.github.io), Optimal Rates for Vector-Valued Spectral Regularization Learning Algorithms, 2024. Available on [arxiv:2405.14778](https://arxiv.org/abs/2405.14778). (* Equal contribution)
 - **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Kpotufe S.](http://www.columbia.edu/~skk2175/), Nonlinear Meta-Learning Can Guarantee Faster Rates, 2023. Available on [arxiv:2307.10870](https://arxiv.org/abs/2307.10870). Presented at the NeurIPS 2023 Workshop [Mathematics of Modern Machine Learning (M3L)](https://sites.google.com/view/m3l-2023). (* Equal contribution)
-- [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Towards Optimal Sobolev Norm Rates for the Vector-Valued Regularized Least-Squares Algorithm, 2023. Available on [arxiv:2312.07186](https://arxiv.org/abs/2312.07186). (* Equal contribution)
+
 
 Conference
 ======
@@ -45,7 +45,8 @@ Conference
     
 Journal
 ======
-- [Meta-strategy for Learning Tuning Parameters with Guarantees](https://www.mdpi.com/1099-4300/23/10/1257). **Meunier, D.**; [Alquier, P.](https://pierrealquier.github.io/index.html) [arXiv:2102.02504](https://arxiv.org/abs/2102.02504), [Code](../files/supplement.zip). Entropy, 2021, vol. 23, no. 10, 1257. Part of the special issue on [Approximate Bayesian Inference](https://www.mdpi.com/journal/entropy/special_issues/approx_Bayes_inference).
+- [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Towards Optimal Sobolev Norm Rates for the Vector-Valued Regularized Least-Squares Algorithm. To appear Journal of Machine Learning Research. Available on [arxiv:2312.07186](https://arxiv.org/abs/2312.07186). (* Equal contribution)
+- **Meunier, D.**, [Alquier, P.](https://pierrealquier.github.io/index.html), [Meta-strategy for Learning Tuning Parameters with Guarantees](https://www.mdpi.com/1099-4300/23/10/1257). Entropy, 2021, vol. 23, no. 10, 1257. Part of the special issue on [Approximate Bayesian Inference](https://www.mdpi.com/journal/entropy/special_issues/approx_Bayes_inference). Available on [arXiv:2102.02504](https://arxiv.org/abs/2102.02504), [Code](../files/supplement.zip). 
 <img src="../images/metagraph.png" width="700"> 
 
 Master's Thesis
