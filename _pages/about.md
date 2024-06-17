@@ -30,26 +30,22 @@ Publications
 - **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Kpotufe S.](http://www.columbia.edu/~skk2175/), Nonlinear Meta-Learning Can Guarantee Faster Rates, 2023. Available on [arxiv:2307.10870](https://arxiv.org/abs/2307.10870). Presented at the NeurIPS 2023 Workshop [Mathematics of Modern Machine Learning (M3L)](https://sites.google.com/view/m3l-2023). (* Equal contribution)
 
 <em> Journal </em>
-- [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Towards Optimal Sobolev Norm Rates for the Vector-Valued Regularized Least-Squares Algorithm. To appear Journal of Machine Learning Research. Available on [arxiv:2312.07186](https://arxiv.org/abs/2312.07186). (* Equal contribution)
+- [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Towards Optimal Sobolev Norm Rates for the Vector-Valued Regularized Least-Squares Algorithm, 2024. To appear Journal of Machine Learning Research. Available on [arxiv:2312.07186](https://arxiv.org/abs/2312.07186). (* Equal contribution)
 - **Meunier, D.**, [Alquier, P.](https://pierrealquier.github.io/index.html), [Meta-strategy for Learning Tuning Parameters with Guarantees](https://www.mdpi.com/1099-4300/23/10/1257). Entropy, 2021, vol. 23, no. 10, 1257. Part of the special issue on [Approximate Bayesian Inference](https://www.mdpi.com/journal/entropy/special_issues/approx_Bayes_inference). Available on [arXiv:2102.02504](https://arxiv.org/abs/2102.02504), [Code](../files/supplement.zip). 
-<img src="../images/metagraph.png" width="700"> 
+<!-- <img src="../images/metagraph.png" width="700"> -->
 
 <em> Conference </em>
-- [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Optimal Rates for Regularized Conditional Mean Embedding Learning, 2022, to appear in Advances in Neural Information Processing Systems 36 (NeurIPS) as an oral presentation. Available on [arXiv:2208.01711](https://arxiv.org/abs/2208.01711). (* Equal contribution)
-
+- [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Optimal Rates for Regularized Conditional Mean Embedding Learning. Advances in Neural Information Processing Systems 35 (NeurIPS), 2022, pp. 4433--4445. Available on [arXiv:2208.01711](https://arxiv.org/abs/2208.01711). (* Equal contribution)
 <!--<div class="container">
   <div class="image">
     <img style="float: right;" src="../images/gmm_ex.png" width="350"> 
   </div>
   <div class="text"> -->
-- Distribution Regression with Sliced Wasserstein Kernels. **Meunier, D.**; [Pontil, M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/); [Ciliberto, C.](https://cciliber.github.io) Proceedings of the 39th International Conference on Machine Learning (ICML), Proceedings of Machine Learning Research, 2022, vol. 162, pp. 15501--15523. Available on [arXiv:2202.03926](https://arxiv.org/abs/2202.03926).
+-  **Meunier, D.**, [Pontil, M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/), [Ciliberto, C.](https://cciliber.github.io), Distribution Regression with Sliced Wasserstein Kernels. Proceedings of the 39th International Conference on Machine Learning (ICML), Proceedings of Machine Learning Research, 2022, vol. 162, pp. 15501--15523. Available on [arXiv:2202.03926](https://arxiv.org/abs/2202.03926).
 <!--      </div>
     </div> -->
     
-
-
-Master's Thesis
-======
+<em> Master's Thesis </em>
 - [Meta Learning Meets Variational Inference, Learning Priors with Guarantees.](../files/RikenReport.pdf) (2020)
 
 Teaching
@@ -60,9 +56,7 @@ Teaching
 
 Education
 ======
-
 <!--[Curriculum Vitae](../files/MeunierDimitriResume.pdf) -->
-
 - MSc in Statistics & Machine Learning, ENS Paris-Saclay, 2019-2020
 - MSc in Statistics & Economics, ENSAE Paris, 2018-2020
 - BSc in Mathematics, Université Paris Dauphine, 2014-2018
