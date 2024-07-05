@@ -38,12 +38,18 @@ Publications
 
 <em> Conference </em>
 - [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Optimal Rates for Regularized Conditional Mean Embedding Learning. Advances in Neural Information Processing Systems 35 (NeurIPS), 2022, pp. 4433--4445. Available on [arXiv:2208.01711](https://arxiv.org/abs/2208.01711). (* Equal contribution)
+
+
 <!--<div class="container">
   <div class="image">
     <img style="float: right;" src="../images/gmm_ex.png" width="350"> 
   </div>
   <div class="text"> -->
+
+  
 -  **Meunier, D.**, [Pontil, M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/), [Ciliberto, C.](https://cciliber.github.io), Distribution Regression with Sliced Wasserstein Kernels. Proceedings of the 39th International Conference on Machine Learning (ICML), Proceedings of Machine Learning Research, 2022, vol. 162, pp. 15501--15523. Available on [arXiv:2202.03926](https://arxiv.org/abs/2202.03926).
+
+
 <!--      </div>
     </div> -->
     
