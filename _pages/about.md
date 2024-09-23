@@ -51,10 +51,11 @@ Publications
 
 
 <!--      </div>
-    </div> -->
+    </div> 
     
 <em> Master's Thesis </em>
 - [Meta Learning Meets Variational Inference, Learning Priors with Guarantees.](../files/RikenReport.pdf) (2020)
+-->
 
 Teaching
 ======
