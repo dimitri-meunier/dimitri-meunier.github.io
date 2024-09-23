@@ -81,6 +81,7 @@ Reading groups
 Attendance
 ======
 - [Learning and Optimization in Luminy – LOL](https://conferences.cirm-math.fr/3003.html), CIRM, Luminy,  2024
+- [Workshop on Functional Inference and Machine Intelligence - FIMI](https://ismseminar.github.io/fimi2024/), Bristol, UK, 2024
 - [Machine Learning Summer School](https://groups.oist.jp/mlss), OIST, Okinawa, 2024
 - [Gradient Flows For Sampling, Inference, and Learning](https://rss.org.uk/training-events/events/events-2023/sections/gradient-flows-for-sampling,-inference,-and-learni/#eventoverview), Royal Statistical Society, 2023 
 - [Meeting in Mathematical Statistics](https://www.i2m.univ-amu.fr/events/meeting-in-mathematical-statistics-2022/), CIRM, Luminy,  2022
