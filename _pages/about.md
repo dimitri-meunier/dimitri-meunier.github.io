@@ -28,17 +28,18 @@ Publications
 ======
 
 <em> Preprints </em>
-- **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Kpotufe S.](http://www.columbia.edu/~skk2175/), Nonlinear Meta-Learning Can Guarantee Faster Rates, 2023. Available on [arxiv:2307.10870](https://arxiv.org/abs/2307.10870). Presented at the NeurIPS 2023 Workshop [Mathematics of Modern Machine Learning (M3L)](https://sites.google.com/view/m3l-2023). (* Equal contribution)
+- **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Kpotufe S.](http://www.columbia.edu/~skk2175/), Nonlinear Meta-Learning Can Guarantee Faster Rates, 2023. Available on [arxiv:2307.10870](https://arxiv.org/abs/2307.10870). Presented at the NeurIPS 2023 Workshop [Mathematics of Modern Machine Learning (M3L)](https://sites.google.com/view/m3l-2023). Submitted. 
 
 <em> Journal </em>
-- [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Towards Optimal Sobolev Norm Rates for the Vector-Valued Regularized Least-Squares Algorithm](https://www.jmlr.org/papers/v25/23-1663.html), 2024. Journal of Machine Learning Research, 2024, vol. 25, no. 181, pp. 1-51. Available on [arxiv:2312.07186](https://arxiv.org/abs/2312.07186). (* Equal contribution)
+- [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Towards Optimal Sobolev Norm Rates for the Vector-Valued Regularized Least-Squares Algorithm](https://www.jmlr.org/papers/v25/23-1663.html), 2024. Journal of Machine Learning Research, 2024, vol. 25, no. 181, pp. 1-51. Available on [arxiv:2312.07186](https://arxiv.org/abs/2312.07186).
+
 - **Meunier, D.**, [Alquier, P.](https://pierrealquier.github.io/index.html), [Meta-strategy for Learning Tuning Parameters with Guarantees](https://www.mdpi.com/1099-4300/23/10/1257). Entropy, 2021, vol. 23, no. 10, 1257. Part of the special issue on [Approximate Bayesian Inference](https://www.mdpi.com/journal/entropy/special_issues/approx_Bayes_inference). Available on [arXiv:2102.02504](https://arxiv.org/abs/2102.02504), [Code](../files/supplement.zip). 
 <!-- <img src="../images/metagraph.png" width="700"> -->
 
 <em> Conference </em>
-- **Meunier D.**\*, Shen Z.\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Li Z.](https://zhuli-michael.github.io), Optimal Rates for Vector-Valued Spectral Regularization Learning Algorithms, 2024. To Appear NeurIPS 2024. Available on [arxiv:2405.14778](https://arxiv.org/abs/2405.14778). (* Equal contribution)
+- **Meunier D.**\*, Shen Z.\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Li Z.](https://zhuli-michael.github.io), Optimal Rates for Vector-Valued Spectral Regularization Learning Algorithms, 2024. To Appear NeurIPS 2024. Available on [arxiv:2405.14778](https://arxiv.org/abs/2405.14778).
 
-- [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Optimal Rates for Regularized Conditional Mean Embedding Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1c71cd4032da425409d8ada8727bad42-Abstract-Conference.html). Advances in Neural Information Processing Systems 35 (NeurIPS), 2022, pp. 4433--4445. Available on [arXiv:2208.01711](https://arxiv.org/abs/2208.01711). (* Equal contribution)
+- [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Optimal Rates for Regularized Conditional Mean Embedding Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1c71cd4032da425409d8ada8727bad42-Abstract-Conference.html). Advances in Neural Information Processing Systems 35 (NeurIPS), 2022, pp. 4433--4445. Available on [arXiv:2208.01711](https://arxiv.org/abs/2208.01711). 
 
 
 <!--<div class="container">
@@ -57,6 +58,8 @@ Publications
 <em> Master's Thesis </em>
 - [Meta Learning Meets Variational Inference, Learning Priors with Guarantees.](../files/RikenReport.pdf) (2020)
 -->
+
+(* Equal contribution)
 
 Teaching
 ======
