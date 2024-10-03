@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, welcome to my homepage.
 
-I am a third year PhD student in the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/study-and-work/phd-programme) at [UCL](https://www.ucl.ac.uk) and an [ELLIS](https://ellis.eu/phd-postdoc) PhD student.
+I am a fourth year PhD student in the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/study-and-work/phd-programme) at [UCL](https://www.ucl.ac.uk) and an [ELLIS](https://ellis.eu/phd-postdoc) PhD student.
 
 Previously, I was a research assistant at the [Istituto Italiano di Tecnologia](https://iit.it) in the [Computational Statistics and Machine Learning](https://www.iit.it/research/lines/computational-statistics-and-machine-learning) team in Genoa, working with [Massimiliano Pontil](https://scholar.google.com/citations?user=lcOacs8AAAAJ&hl=en) and [Carlo Ciliberto](https://scholar.google.com/citations?user=XUcUAisAAAAJ&hl=en). From May 2020 to November 2020, I was a (remote) research intern with [Pierre Alquier](https://pierrealquier.github.io) and [Emtiyaz Khan](https://emtiyaz.github.io) in the [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io "ApproxBayesTeam") of the [RIKEN Center for Advanced Intelligence Project](https://aip.riken.jp "RikenAIP") in Tokyo.
 
@@ -28,7 +28,6 @@ Publications
 ======
 
 <em> Preprints </em>
-- **Meunier D.**\*, Shen Z.\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Li Z.](https://zhuli-michael.github.io), Optimal Rates for Vector-Valued Spectral Regularization Learning Algorithms, 2024. To Appear NeurIPS 2024. Available on [arxiv:2405.14778](https://arxiv.org/abs/2405.14778). (* Equal contribution)
 - **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Kpotufe S.](http://www.columbia.edu/~skk2175/), Nonlinear Meta-Learning Can Guarantee Faster Rates, 2023. Available on [arxiv:2307.10870](https://arxiv.org/abs/2307.10870). Presented at the NeurIPS 2023 Workshop [Mathematics of Modern Machine Learning (M3L)](https://sites.google.com/view/m3l-2023). (* Equal contribution)
 
 <em> Journal </em>
@@ -37,6 +36,8 @@ Publications
 <!-- <img src="../images/metagraph.png" width="700"> -->
 
 <em> Conference </em>
+- **Meunier D.**\*, Shen Z.\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Li Z.](https://zhuli-michael.github.io), Optimal Rates for Vector-Valued Spectral Regularization Learning Algorithms, 2024. To Appear NeurIPS 2024. Available on [arxiv:2405.14778](https://arxiv.org/abs/2405.14778). (* Equal contribution)
+
 - [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Optimal Rates for Regularized Conditional Mean Embedding Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1c71cd4032da425409d8ada8727bad42-Abstract-Conference.html). Advances in Neural Information Processing Systems 35 (NeurIPS), 2022, pp. 4433--4445. Available on [arXiv:2208.01711](https://arxiv.org/abs/2208.01711). (* Equal contribution)
 
 
