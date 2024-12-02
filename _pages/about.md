@@ -28,7 +28,7 @@ Publications
 ======
 
 <em> Preprints </em>
-- **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Christensen T.](https://tmchristensen.com), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Nonparametric Instrumental Regression via Kernel Methods is Minimax Optimal, 2024. Work in progress.
+- **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Christensen T.](https://tmchristensen.com), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Nonparametric Instrumental Regression via Kernel Methods is Minimax Optimal, 2024. Available on [arxiv:2411.19653](https://arxiv.org/abs/2411.19653). Work in progress.
 - Bozkurt B., Deaner B., **Meunier, D.**, Xu, L., Gretton A., Density Ratio-based Proxy Causal Learning Without Density Ratios, 2024. Submitted.
 - Kim J., **Meunier, D.**, Gretton A., Suzuki T., Li Z., Optimality and Adaptivity of Deep Neural Features for Instrumental Variable Regression, 2024. Submitted.
 - **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Kpotufe S.](http://www.columbia.edu/~skk2175/), Nonlinear Meta-Learning Can Guarantee Faster Rates, 2023. Available on [arxiv:2307.10870](https://arxiv.org/abs/2307.10870). Presented at the NeurIPS 2023 Workshop [Mathematics of Modern Machine Learning (M3L)](https://sites.google.com/view/m3l-2023). Submitted. 
