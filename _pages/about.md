@@ -34,17 +34,17 @@ Publications
 <em> Journal </em>
 - [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Towards Optimal Sobolev Norm Rates for the Vector-Valued Regularized Least-Squares Algorithm](https://www.jmlr.org/papers/v25/23-1663.html), 2024. Journal of Machine Learning Research, 2024, vol. 25, no. 181, pp. 1-51. Available on [arxiv:2312.07186](https://arxiv.org/abs/2312.07186).
 
-- **Meunier D.**, [Alquier P.](https://pierrealquier.github.io/index.html), [Meta-strategy for Learning Tuning Parameters with Guarantees](https://www.mdpi.com/1099-4300/23/10/1257). Entropy, 2021, vol. 23, no. 10, 1257. Part of the special issue on [Approximate Bayesian Inference](https://www.mdpi.com/journal/entropy/special_issues/approx_Bayes_inference). Available on [arXiv:2102.02504](https://arxiv.org/abs/2102.02504), [Code](../files/supplement.zip). 
-<!-- <img src="../images/metagraph.png" width="700"> -->
+- **Meunier D.**, [Alquier P.](https://pierrealquier.github.io/index.html), [Meta-strategy for Learning Tuning Parameters with Guarantees](https://www.mdpi.com/1099-4300/23/10/1257). Entropy, 2021, vol. 23, no. 10, 1257. Part of the special issue on [Approximate Bayesian Inference](https://www.mdpi.com/journal/entropy/special_issues/approx_Bayes_inference). Available on [arXiv:2102.02504](https://arxiv.org/abs/2102.02504). 
+<!-- <img src="../images/metagraph.png" width="700"> [Code](../files/supplement.zip)-->
 
 <em> Conference </em>
 
-- [Kim J.](https://sites.google.com/g.ecc.u-tokyo.ac.jp/junokim), **Meunier D.**, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Suzuki T.](https://www.google.com/search?client=safari&rls=en&q=taiji+suzuki&ie=UTF-8&oe=UTF-8), [Li Z.](https://zhuli-michael.github.io), Optimality and Adaptivity of Deep Neural Features for Instrumental Variable Regression. To Appear ICLR 2025. Available on [arxiv:2501.04898](https://arxiv.org/abs/2501.04898).
+- [Kim J.](https://sites.google.com/g.ecc.u-tokyo.ac.jp/junokim), **Meunier D.**, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Suzuki T.](https://www.google.com/search?client=safari&rls=en&q=taiji+suzuki&ie=UTF-8&oe=UTF-8), [Li Z.](https://zhuli-michael.github.io), Optimality and Adaptivity of Deep Neural Features for Instrumental Variable Regression. To appear ICLR 2025. Available on [arxiv:2501.04898](https://arxiv.org/abs/2501.04898).
 
 
-- Bozkurt B., [Deaner B.](https://bendeaner.wordpress.com), **Meunier D.**, [Xu L.](https://www.ly9988.work), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Density Ratio-based Proxy Causal Learning Without Density Ratios. To Appear AISTATS 2025.
+- Bozkurt B., [Deaner B.](https://bendeaner.wordpress.com), **Meunier D.**, [Xu L.](https://www.ly9988.work), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Density Ratio-based Proxy Causal Learning Without Density Ratios. To appear AISTATS 2025.
 
-- **Meunier D.**\*, Shen Z.\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Li Z.](https://zhuli-michael.github.io), Optimal Rates for Vector-Valued Spectral Regularization Learning Algorithms. To Appear NeurIPS 2024. Available on [arxiv:2405.14778](https://arxiv.org/abs/2405.14778).
+- **Meunier D.**\*, Shen Z.\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Li Z.](https://zhuli-michael.github.io), Optimal Rates for Vector-Valued Spectral Regularization Learning Algorithms. To appear NeurIPS 2024. Available on [arxiv:2405.14778](https://arxiv.org/abs/2405.14778).
 
 - [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Optimal Rates for Regularized Conditional Mean Embedding Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1c71cd4032da425409d8ada8727bad42-Abstract-Conference.html). NeurIPS 2022. Available on [arXiv:2208.01711](https://arxiv.org/abs/2208.01711). 
 
