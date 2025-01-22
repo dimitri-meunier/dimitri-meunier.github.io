@@ -28,7 +28,6 @@ Publications
 ======
 <em> Preprints </em>
 - **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Christensen T.](https://tmchristensen.com), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Nonparametric Instrumental Regression via Kernel Methods is Minimax Optimal, 2024. Available on [arxiv:2411.19653](https://arxiv.org/abs/2411.19653). Work in progress.
-- [Kim J.](https://sites.google.com/g.ecc.u-tokyo.ac.jp/junokim), **Meunier D.**, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Suzuki T.](https://www.google.com/search?client=safari&rls=en&q=taiji+suzuki&ie=UTF-8&oe=UTF-8), [Li Z.](https://zhuli-michael.github.io), Optimality and Adaptivity of Deep Neural Features for Instrumental Variable Regression, 2024. Available on [arxiv:2501.04898](https://arxiv.org/abs/2501.04898). Submitted.
 - **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Kpotufe S.](http://www.columbia.edu/~skk2175/), Nonlinear Meta-Learning Can Guarantee Faster Rates, 2023. Available on [arxiv:2307.10870](https://arxiv.org/abs/2307.10870). Revise and resubmit.
 <!-- Presented at the NeurIPS 2023 Workshop [Mathematics of Modern Machine Learning (M3L)](https://sites.google.com/view/m3l-2023) --> 
 
@@ -39,6 +38,10 @@ Publications
 <!-- <img src="../images/metagraph.png" width="700"> -->
 
 <em> Conference </em>
+
+- [Kim J.](https://sites.google.com/g.ecc.u-tokyo.ac.jp/junokim), **Meunier D.**, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Suzuki T.](https://www.google.com/search?client=safari&rls=en&q=taiji+suzuki&ie=UTF-8&oe=UTF-8), [Li Z.](https://zhuli-michael.github.io), Optimality and Adaptivity of Deep Neural Features for Instrumental Variable Regression. To Appear ICLR 2025. Available on [arxiv:2501.04898](https://arxiv.org/abs/2501.04898). Submitted.
+
+
 - Bozkurt B., [Deaner B.](https://bendeaner.wordpress.com), **Meunier D.**, [Xu L.](https://www.ly9988.work), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Density Ratio-based Proxy Causal Learning Without Density Ratios. To Appear AISTATS 2025.
 
 - **Meunier D.**\*, Shen Z.\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Li Z.](https://zhuli-michael.github.io), Optimal Rates for Vector-Valued Spectral Regularization Learning Algorithms. To Appear NeurIPS 2024. Available on [arxiv:2405.14778](https://arxiv.org/abs/2405.14778).
