@@ -39,11 +39,11 @@ Publications
 <!-- <img src="../images/metagraph.png" width="700"> -->
 
 <em> Conference </em>
-- Bozkurt B., [Deaner B.](https://bendeaner.wordpress.com), **Meunier D.**, [Xu L.](https://www.ly9988.work), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Density Ratio-based Proxy Causal Learning Without Density Ratios, 2025. To Appear AISTATS 2025.
+- Bozkurt B., [Deaner B.](https://bendeaner.wordpress.com), **Meunier D.**, [Xu L.](https://www.ly9988.work), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Density Ratio-based Proxy Causal Learning Without Density Ratios. To Appear AISTATS 2025.
 
-- **Meunier D.**\*, Shen Z.\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Li Z.](https://zhuli-michael.github.io), Optimal Rates for Vector-Valued Spectral Regularization Learning Algorithms, 2024. To Appear NeurIPS 2024. Available on [arxiv:2405.14778](https://arxiv.org/abs/2405.14778).
+- **Meunier D.**\*, Shen Z.\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Li Z.](https://zhuli-michael.github.io), Optimal Rates for Vector-Valued Spectral Regularization Learning Algorithms. To Appear NeurIPS 2024. Available on [arxiv:2405.14778](https://arxiv.org/abs/2405.14778).
 
-- [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Optimal Rates for Regularized Conditional Mean Embedding Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1c71cd4032da425409d8ada8727bad42-Abstract-Conference.html). Advances in Neural Information Processing Systems 35 (NeurIPS), 2022, pp. 4433--4445. Available on [arXiv:2208.01711](https://arxiv.org/abs/2208.01711). 
+- [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Optimal Rates for Regularized Conditional Mean Embedding Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1c71cd4032da425409d8ada8727bad42-Abstract-Conference.html). NeurIPS 2022. Available on [arXiv:2208.01711](https://arxiv.org/abs/2208.01711). 
 
 
 <!--<div class="container">
@@ -53,7 +53,7 @@ Publications
   <div class="text"> -->
 
   
--  **Meunier D.**, [Pontil M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/), [Ciliberto C.](https://cciliber.github.io), [Distribution Regression with Sliced Wasserstein Kernels](https://proceedings.mlr.press/v162/meunier22b.html). Proceedings of the 39th International Conference on Machine Learning (ICML), Proceedings of Machine Learning Research, 2022, vol. 162, pp. 15501--15523. Available on [arXiv:2202.03926](https://arxiv.org/abs/2202.03926).
+-  **Meunier D.**, [Pontil M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/), [Ciliberto C.](https://cciliber.github.io), [Distribution Regression with Sliced Wasserstein Kernels](https://proceedings.mlr.press/v162/meunier22b.html). ICML 2022. Available on [arXiv:2202.03926](https://arxiv.org/abs/2202.03926).
 
 
 <!--      </div>
