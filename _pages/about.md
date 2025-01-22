@@ -39,7 +39,7 @@ Publications
 
 <em> Conference </em>
 
-- [Kim J.](https://sites.google.com/g.ecc.u-tokyo.ac.jp/junokim), **Meunier D.**, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Suzuki T.](https://www.google.com/search?client=safari&rls=en&q=taiji+suzuki&ie=UTF-8&oe=UTF-8), [Li Z.](https://zhuli-michael.github.io), Optimality and Adaptivity of Deep Neural Features for Instrumental Variable Regression. To Appear ICLR 2025. Available on [arxiv:2501.04898](https://arxiv.org/abs/2501.04898). Submitted.
+- [Kim J.](https://sites.google.com/g.ecc.u-tokyo.ac.jp/junokim), **Meunier D.**, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Suzuki T.](https://www.google.com/search?client=safari&rls=en&q=taiji+suzuki&ie=UTF-8&oe=UTF-8), [Li Z.](https://zhuli-michael.github.io), Optimality and Adaptivity of Deep Neural Features for Instrumental Variable Regression. To Appear ICLR 2025. Available on [arxiv:2501.04898](https://arxiv.org/abs/2501.04898).
 
 
 - Bozkurt B., [Deaner B.](https://bendeaner.wordpress.com), **Meunier D.**, [Xu L.](https://www.ly9988.work), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Density Ratio-based Proxy Causal Learning Without Density Ratios. To Appear AISTATS 2025.
