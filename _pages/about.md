@@ -42,7 +42,7 @@ Publications
 - [Kim J.](https://sites.google.com/g.ecc.u-tokyo.ac.jp/junokim), **Meunier D.**, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Suzuki T.](https://www.google.com/search?client=safari&rls=en&q=taiji+suzuki&ie=UTF-8&oe=UTF-8), [Li Z.](https://zhuli-michael.github.io), Optimality and Adaptivity of Deep Neural Features for Instrumental Variable Regression. To appear ICLR 2025. Available on [arxiv:2501.04898](https://arxiv.org/abs/2501.04898).
 
 
-- Bozkurt B., [Deaner B.](https://bendeaner.wordpress.com), **Meunier D.**, [Xu L.](https://www.ly9988.work), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Density Ratio-based Proxy Causal Learning Without Density Ratios. To appear AISTATS 2025.
+- Bozkurt B., [Deaner B.](https://bendeaner.wordpress.com), **Meunier D.**, [Xu L.](https://www.ly9988.work), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Density Ratio-based Proxy Causal Learning Without Density Ratios. To appear AISTATS 2025. Available on [arxiv:2503.08371](https://arxiv.org/abs/2503.08371).
 
 - **Meunier D.**\*, Shen Z.\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Li Z.](https://zhuli-michael.github.io), Optimal Rates for Vector-Valued Spectral Regularization Learning Algorithms. To appear NeurIPS 2024. Available on [arxiv:2405.14778](https://arxiv.org/abs/2405.14778).
 
