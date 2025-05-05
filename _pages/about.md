@@ -47,9 +47,11 @@ Publications
 
 - Bozkurt B., [Deaner B.](https://bendeaner.wordpress.com), **Meunier D.**, [Xu L.](https://www.ly9988.work), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Density Ratio-based Proxy Causal Learning Without Density Ratios. To appear AISTATS 2025. Available on [arxiv:2503.08371](https://arxiv.org/abs/2503.08371).
 
-- **Meunier D.**\*, Shen Z.\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Li Z.](https://zhuli-michael.github.io), Optimal Rates for Vector-Valued Spectral Regularization Learning Algorithms. To appear NeurIPS 2024. Available on [arxiv:2405.14778](https://arxiv.org/abs/2405.14778).
+- **Meunier D.**\*, Shen Z.\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Li Z.](https://zhuli-michael.github.io), [Optimal Rates for Vector-Valued Spectral Regularization Learning Algorithms](https://papers.nips.cc/paper_files/paper/2024/hash/966bf8492dbaa8376f5e3756c09d7edb-Abstract-Conference.html). NeurIPS 2024. Available on [arxiv:2405.14778](https://arxiv.org/abs/2405.14778).
 
-- [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Optimal Rates for Regularized Conditional Mean Embedding Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1c71cd4032da425409d8ada8727bad42-Abstract-Conference.html). NeurIPS 2022. Available on [arXiv:2208.01711](https://arxiv.org/abs/2208.01711). 
+- [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Optimal Rates for Regularized Conditional Mean Embedding Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1c71cd4032da425409d8ada8727bad42-Abstract-Conference.html). NeurIPS 2022. Available on [arXiv:2208.01711](https://arxiv.org/abs/2208.01711).
+
+- **Meunier D.**, [Pontil M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/), [Ciliberto C.](https://cciliber.github.io), [Distribution Regression with Sliced Wasserstein Kernels](https://proceedings.mlr.press/v162/meunier22b.html). ICML 2022. Available on [arXiv:2202.03926](https://arxiv.org/abs/2202.03926).
 
 
 <!--<div class="container">
@@ -57,10 +59,6 @@ Publications
     <img style="float: right;" src="../images/gmm_ex.png" width="350"> 
   </div>
   <div class="text"> -->
-
-  
--  **Meunier D.**, [Pontil M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/), [Ciliberto C.](https://cciliber.github.io), [Distribution Regression with Sliced Wasserstein Kernels](https://proceedings.mlr.press/v162/meunier22b.html). ICML 2022. Available on [arXiv:2202.03926](https://arxiv.org/abs/2202.03926).
-
 
 <!--      </div>
     </div> 
@@ -73,7 +71,7 @@ Publications
 
 Teaching
 ======
-- [Gatsby Bridging Programme](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-bridging-programme) - 2024
+- [Gatsby Bridging Programme](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-bridging-programme) - 2024 & 2025
 - Advanced Topics in Machine Learning, [Kernel Methods](http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html) - Computational Statistics and Machine Learning MSc - UCL - Fall 2022 & 2023 with [Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/)
 - Introduction to stochastic processes - Graduate (M1) - ENSAE Paris - Fall 2020 with [Nicolas Chopin](https://nchopin.github.io)
 - Tutor for first year students in Linear Algebra and Functional Analysis - Université Paris Dauphine - Fall 2017
@@ -95,9 +93,9 @@ Reading groups
 
 Attendance
 ======
-- [2nd RSS/Turing Workshop on Gradient Flows for Sampling, Inference, and Learning](https://rss.org.uk/training-events/events/events-2025/section-groups/2nd-rss-turing-workshop-on-gradient-flows-for-samp/), The Alan Turing Institute, 2025
-- [AISTATS](https://virtual.aistats.org/Conferences/2025), Puket, 2025
+- [AISTATS](https://virtual.aistats.org/Conferences/2025), Phuket, 2025
 - [ICLR](https://iclr.cc/Conferences/2025), Singapore, 2025
+- [2nd RSS/Turing Workshop on Gradient Flows for Sampling, Inference, and Learning](https://rss.org.uk/training-events/events/events-2025/section-groups/2nd-rss-turing-workshop-on-gradient-flows-for-samp/), The Alan Turing Institute, 2025
 - [NeurIPS](https://nips.cc/Conferences/2024), Vancouver, 2024
 - [Learning and Optimization in Luminy – LOL](https://conferences.cirm-math.fr/3003.html), CIRM, Luminy,  2024
 - [Workshop on Functional Inference and Machine Intelligence - FIMI](https://ismseminar.github.io/fimi2024/), Bristol, UK, 2024
