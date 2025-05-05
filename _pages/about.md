@@ -95,6 +95,9 @@ Reading groups
 
 Attendance
 ======
+- [2nd RSS/Turing Workshop on Gradient Flows for Sampling, Inference, and Learning](https://rss.org.uk/training-events/events/events-2025/section-groups/2nd-rss-turing-workshop-on-gradient-flows-for-samp/), The Alan Turing Institute, 2025
+- [AISTATS](https://virtual.aistats.org/Conferences/2025), Puket, 2025
+- [ICLR](https://iclr.cc/Conferences/2025), Singapore, 2025
 - [NeurIPS](https://nips.cc/Conferences/2024), Vancouver, 2024
 - [Learning and Optimization in Luminy – LOL](https://conferences.cirm-math.fr/3003.html), CIRM, Luminy,  2024
 - [Workshop on Functional Inference and Machine Intelligence - FIMI](https://ismseminar.github.io/fimi2024/), Bristol, UK, 2024
