@@ -31,7 +31,7 @@ Publications
 - **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Christensen T.](https://tmchristensen.com), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Nonparametric Instrumental Regression via Kernel Methods is Minimax Optimal. Available on [arxiv:2411.19653](https://arxiv.org/abs/2411.19653). Work in progress.
 - **Meunier D.**\*, [Moulin A.](https://antoine-moulin.github.io), Wornbard J., [Kostic V.](https://vladi-iit.github.io), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Demystifying Spectral Feature Learning for Instrumental Variable Regression. Submitted. 
 - [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Mücke N.](https://nicole-muecke.jimdosite.com), **Meunier D.**\*, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Regularized least squares learning with heavy-tailed noise is minimax optimal. Available on [arxiv:2505.14214](https://arxiv.org/abs/2505.14214). Submitted.
-<!-- Presented at the NeurIPS 2023 Workshop [Mathematics of Modern Machine Learning (M3L)](https://sites.google.com/view/m3l-2023) --> 
+- Bozkurt B., [Zenati H.](https://houssamzenati.github.io), **Meunier D.**, [Xu L.](https://www.ly9988.work), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Density Ratio-Free Doubly Robust Proxy Causal Learning. Submitted. 
 
 <em> Journal </em>
 
