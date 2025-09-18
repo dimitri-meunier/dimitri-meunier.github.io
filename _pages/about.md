@@ -29,8 +29,6 @@ Publications
 <em> Preprints </em>
 
 - **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Christensen T.](https://tmchristensen.com), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Nonparametric Instrumental Regression via Kernel Methods is Minimax Optimal. Available on [arxiv:2411.19653](https://arxiv.org/abs/2411.19653). Work in progress.
-- **Meunier D.**, [Moulin A.](https://antoine-moulin.github.io), Wornbard J., [Kostic V.](https://vladi-iit.github.io), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Demystifying Spectral Feature Learning for Instrumental Variable Regression. Available on [arxiv:2506.10899](https://arxiv.org/abs/2506.10899). Submitted. 
-- [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Mücke N.](https://nicole-muecke.jimdosite.com), **Meunier D.**, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Regularized least squares learning with heavy-tailed noise is minimax optimal. Available on [arxiv:2505.14214](https://arxiv.org/abs/2505.14214). Submitted.
 - Bozkurt B., [Zenati H.](https://houssamzenati.github.io), **Meunier D.**, [Xu L.](https://www.ly9988.work), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Density Ratio-Free Doubly Robust Proxy Causal Learning. Available on [arxiv:2505.19807](https://arxiv.org/abs/2505.19807). Submitted. 
 
 <em> Journal </em>
@@ -44,6 +42,10 @@ Publications
 
 <em> Conference </em>
 
+- **Meunier D.**, [Moulin A.](https://antoine-moulin.github.io), Wornbard J., [Kostic V.](https://vladi-iit.github.io), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Demystifying Spectral Feature Learning for Instrumental Variable Regression. Available on [arxiv:2506.10899](https://arxiv.org/abs/2506.10899). To appear NeurIPS 2025.
+
+- [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Mücke N.](https://nicole-muecke.jimdosite.com), **Meunier D.**, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Regularized least squares learning with heavy-tailed noise is minimax optimal. Available on [arxiv:2505.14214](https://arxiv.org/abs/2505.14214). To appear NeurIPS 2025 (Spotlight).
+
 - [Kim J.](https://sites.google.com/g.ecc.u-tokyo.ac.jp/junokim), **Meunier D.**, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Suzuki T.](https://www.google.com/search?client=safari&rls=en&q=taiji+suzuki&ie=UTF-8&oe=UTF-8), [Li Z.](https://zhuli-michael.github.io), [Optimality and Adaptivity of Deep Neural Features for Instrumental Variable Regression](https://proceedings.iclr.cc/paper_files/paper/2025/hash/ead8e195df586b9e7c10fcd114a6b9d1-Abstract-Conference.html). ICLR 2025. Available on [arxiv:2501.04898](https://arxiv.org/abs/2501.04898).
 
 
@@ -51,7 +53,7 @@ Publications
 
 - **Meunier D.**\*, Shen Z.\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Li Z.](https://zhuli-michael.github.io), [Optimal Rates for Vector-Valued Spectral Regularization Learning Algorithms](https://papers.nips.cc/paper_files/paper/2024/hash/966bf8492dbaa8376f5e3756c09d7edb-Abstract-Conference.html). NeurIPS 2024. Available on [arxiv:2405.14778](https://arxiv.org/abs/2405.14778).
 
-- [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Optimal Rates for Regularized Conditional Mean Embedding Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1c71cd4032da425409d8ada8727bad42-Abstract-Conference.html). NeurIPS 2022. Available on [arXiv:2208.01711](https://arxiv.org/abs/2208.01711).
+- [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Optimal Rates for Regularized Conditional Mean Embedding Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1c71cd4032da425409d8ada8727bad42-Abstract-Conference.html). NeurIPS 2022 (Oral). Available on [arXiv:2208.01711](https://arxiv.org/abs/2208.01711).
 
 - **Meunier D.**, [Pontil M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/), [Ciliberto C.](https://cciliber.github.io), [Distribution Regression with Sliced Wasserstein Kernels](https://proceedings.mlr.press/v162/meunier22b.html). ICML 2022. Available on [arXiv:2202.03926](https://arxiv.org/abs/2202.03926).
 
