@@ -33,9 +33,9 @@ Publications
 
 <em> Journal </em>
 
-- **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Kpotufe S.](http://www.columbia.edu/~skk2175/), Nonlinear Meta-Learning Can Guarantee Faster Rates, 2025. Available on [arxiv:2307.10870](https://arxiv.org/abs/2307.10870). To appear SIAM Journal on Mathematics of Data Science (SIMODS).
+- **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Kpotufe S.](http://www.columbia.edu/~skk2175/), [Nonlinear Meta-Learning Can Guarantee Faster Rates](https://epubs.siam.org/doi/abs/10.1137/24M1662977?af=R). SIAM Journal on Mathematics of Data Science, 2025, vol. 7, no. 4, pp. 1594-1615. Available on [arxiv:2307.10870](https://arxiv.org/abs/2307.10870).
 
-- [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Towards Optimal Sobolev Norm Rates for the Vector-Valued Regularized Least-Squares Algorithm](https://www.jmlr.org/papers/v25/23-1663.html), 2024. Journal of Machine Learning Research, 2024, vol. 25, no. 181, pp. 1-51. Available on [arxiv:2312.07186](https://arxiv.org/abs/2312.07186).
+- [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Towards Optimal Sobolev Norm Rates for the Vector-Valued Regularized Least-Squares Algorithm](https://www.jmlr.org/papers/v25/23-1663.html). Journal of Machine Learning Research (JMLR), 2024, vol. 25, no. 181, pp. 1-51. Available on [arxiv:2312.07186](https://arxiv.org/abs/2312.07186).
 
 - **Meunier D.**, [Alquier P.](https://pierrealquier.github.io/index.html), [Meta-strategy for Learning Tuning Parameters with Guarantees](https://www.mdpi.com/1099-4300/23/10/1257). Entropy, 2021, vol. 23, no. 10, 1257. Part of the special issue on [Approximate Bayesian Inference](https://www.mdpi.com/journal/entropy/special_issues/approx_Bayes_inference). Available on [arXiv:2102.02504](https://arxiv.org/abs/2102.02504). 
 <!-- <img src="../images/metagraph.png" width="700"> [Code](../files/supplement.zip)-->
