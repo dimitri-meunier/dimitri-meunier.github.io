@@ -30,6 +30,7 @@ Publications
 
 - **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Christensen T.](https://tmchristensen.com), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Nonparametric Instrumental Regression via Kernel Methods is Minimax Optimal. Available on [arxiv:2411.19653](https://arxiv.org/abs/2411.19653). Work in progress.
 
+- Zikai Shen\*, Zonghao Chen\*, **Meunier D.**, Ingo Steinwart, [Li Z.](https://zhuli-michael.github.io), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Nonparametric Instrumental Variable Regression with Observed Covariates. Available on [2511.19404](https://arxiv.org/abs/2511.19404). Submitted.
 
 <em> Journal </em>
 
