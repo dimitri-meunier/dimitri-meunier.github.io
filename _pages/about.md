@@ -30,7 +30,7 @@ Publications
 
 - **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Christensen T.](https://tmchristensen.com), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Nonparametric Instrumental Regression via Kernel Methods is Minimax Optimal. Available on [arxiv:2411.19653](https://arxiv.org/abs/2411.19653). Work in progress.
 
-- Zikai Shen\*, Zonghao Chen\*, **Meunier D.**, Ingo Steinwart, [Li Z.](https://zhuli-michael.github.io), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Nonparametric Instrumental Variable Regression with Observed Covariates. Available on [2511.19404](https://arxiv.org/abs/2511.19404). Submitted.
+- [Shen Z.](https://stevezshen.github.io)\*, [Chen Z.](https://hudsonchen.github.io)\*, **Meunier D.**, [Steinwart I.](https://www.isa.uni-stuttgart.de/en/institute/team/Steinwart-00002/), [Li Z.](https://zhuli-michael.github.io), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Nonparametric Instrumental Variable Regression with Observed Covariates. Available on [2511.19404](https://arxiv.org/abs/2511.19404). Submitted.
 
 <em> Journal </em>
 
@@ -54,7 +54,7 @@ Publications
 
 - Bozkurt B., [Deaner B.](https://bendeaner.wordpress.com), **Meunier D.**, [Xu L.](https://www.ly9988.work), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Density Ratio-based Proxy Causal Learning Without Density Ratios](https://proceedings.mlr.press/v258/bozkurt25a.html). AISTATS 2025. Available on [arxiv:2503.08371](https://arxiv.org/abs/2503.08371).
 
-- **Meunier D.**\*, Shen Z.\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Li Z.](https://zhuli-michael.github.io), [Optimal Rates for Vector-Valued Spectral Regularization Learning Algorithms](https://papers.nips.cc/paper_files/paper/2024/hash/966bf8492dbaa8376f5e3756c09d7edb-Abstract-Conference.html). NeurIPS 2024. Available on [arxiv:2405.14778](https://arxiv.org/abs/2405.14778).
+- **Meunier D.**\*, [Shen Z.](https://stevezshen.github.io)\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Li Z.](https://zhuli-michael.github.io), [Optimal Rates for Vector-Valued Spectral Regularization Learning Algorithms](https://papers.nips.cc/paper_files/paper/2024/hash/966bf8492dbaa8376f5e3756c09d7edb-Abstract-Conference.html). NeurIPS 2024. Available on [arxiv:2405.14778](https://arxiv.org/abs/2405.14778).
 
 - [Li Z.](https://zhuli-michael.github.io)\*, **Meunier D.**\*, [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Optimal Rates for Regularized Conditional Mean Embedding Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1c71cd4032da425409d8ada8727bad42-Abstract-Conference.html). NeurIPS 2022 (Oral). Available on [arXiv:2208.01711](https://arxiv.org/abs/2208.01711).
 
