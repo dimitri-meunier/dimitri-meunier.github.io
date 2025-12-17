@@ -104,8 +104,8 @@ Reading groups
 
 Attendance
 ======
-- [NeurIPS](https://neurips.cc/Conferences/2025), San Diego, 2025 \\
-- [Mathematical Aspects of Data Science Graduate Summer School](https://mathsdata2025.github.io), EPFL, Switzerland, 2025  \\
+- [NeurIPS](https://neurips.cc/Conferences/2025), San Diego, 2025 
+- [Mathematical Aspects of Data Science Graduate Summer School](https://mathsdata2025.github.io), EPFL, Switzerland, 2025  
 - [AISTATS](https://virtual.aistats.org/Conferences/2025), Phuket, 2025
 - [ICLR](https://iclr.cc/Conferences/2025), Singapore, 2025
 - [2nd RSS/Turing Workshop on Gradient Flows for Sampling, Inference, and Learning](https://rss.org.uk/training-events/events/events-2025/section-groups/2nd-rss-turing-workshop-on-gradient-flows-for-samp/), The Alan Turing Institute, 2025
