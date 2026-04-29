@@ -28,7 +28,7 @@ Publications
 ======
 <em> Preprints </em>
 
-- [Shen Z.](https://stevezshen.github.io), **Meunier D.**, [Zenati H.](https://houssamzenati.github.io), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Kallus N., Bibaut A., Instrumental Variable Analysis Without Structural Equations. Available on [arxiv:2604.24660](https://arxiv.org/abs/2604.24660). Work in progress.
+- [Shen Z.](https://stevezshen.github.io), **Meunier D.**, [Zenati H.](https://houssamzenati.github.io), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Kallus N.](https://nathankallus.com), [Bibaut A.](https://scholar.google.com/citations?user=N_8WC5oAAAAJ&hl=en), Instrumental Variable Analysis Without Structural Equations. Available on [arxiv:2604.24660](https://arxiv.org/abs/2604.24660). Work in progress.
 
 - **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Christensen T.](https://tmchristensen.com), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Nonparametric Instrumental Regression via Kernel Methods is Minimax Optimal. Available on [arxiv:2411.19653](https://arxiv.org/abs/2411.19653). Submitted.
 
