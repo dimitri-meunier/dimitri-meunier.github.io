@@ -34,9 +34,6 @@ Publications
 
 - [Shen Z.](https://stevezshen.github.io)\*, [Chen Z.](https://hudsonchen.github.io)\*, **Meunier D.**, [Steinwart I.](https://www.isa.uni-stuttgart.de/en/institute/team/Steinwart-00002/), [Li Z.](https://zhuli-michael.github.io), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Nonparametric Instrumental Variable Regression with Observed Covariates. Available on [2511.19404](https://arxiv.org/abs/2511.19404). Submitted.
 
-- **Meunier D.**\*, Wornbard J.\*, [Kostic V.](https://vladi-iit.github.io)\*, [Moulin A.](https://antoine-moulin.github.io), [Fröhlich A.](https://alekfrohlich.github.io), [Lounici K.](https://klounici.github.io), [Pontil M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Outcome-Aware Spectral Feature Learning
-for Instrumental Variable Regression. Available on [arxiv:2512.00919](https://arxiv.org/abs/2512.00919). Submitted.
-
 <em> Journal </em>
 
 - **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Kpotufe S.](http://www.columbia.edu/~skk2175/), [Nonlinear Meta-Learning Can Guarantee Faster Rates](https://epubs.siam.org/doi/abs/10.1137/24M1662977?af=R). SIAM Journal on Mathematics of Data Science, 2025, vol. 7, no. 4, pp. 1594-1615. Available on [arxiv:2307.10870](https://arxiv.org/abs/2307.10870).
@@ -47,6 +44,9 @@ for Instrumental Variable Regression. Available on [arxiv:2512.00919](https://ar
 <!-- <img src="../images/metagraph.png" width="700"> [Code](../files/supplement.zip)-->
 
 <em> Conference </em>
+
+- **Meunier D.**\*, Wornbard J.\*, [Kostic V.](https://vladi-iit.github.io)\*, [Moulin A.](https://antoine-moulin.github.io), [Fröhlich A.](https://alekfrohlich.github.io), [Lounici K.](https://klounici.github.io), [Pontil M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Outcome-Aware Spectral Feature Learning
+for Instrumental Variable Regression. Available on [arxiv:2512.00919](https://arxiv.org/abs/2512.00919). To appear ICML 2026.
 
 - **Meunier D.**, [Moulin A.](https://antoine-moulin.github.io), Wornbard J., [Kostic V.](https://vladi-iit.github.io), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Demystifying Spectral Feature Learning for Instrumental Variable Regression. Available on [arxiv:2506.10899](https://arxiv.org/abs/2506.10899). To appear NeurIPS 2025.
 
