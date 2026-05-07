@@ -32,7 +32,7 @@ Publications
 
 - **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Christensen T.](https://tmchristensen.com), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Nonparametric Instrumental Regression via Kernel Methods is Minimax Optimal. Available on [arxiv:2411.19653](https://arxiv.org/abs/2411.19653). Submitted.
 
-- Wornbard J.\*, [Shen Z.](https://stevezshen.github.io)\*, **Meunier D.**, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Semiparametrically Efficient Inference for Kernel Measures of Noise Heterogeneity. Submitted.
+- [Wornbard J.](https://scholar.google.com/citations?user=D5YOqUEAAAAJ&hl=en)\*, [Shen Z.](https://stevezshen.github.io)\*, **Meunier D.**, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Semiparametrically Efficient Inference for Kernel Measures of Noise Heterogeneity. Submitted.
 
 - [Shen Z.](https://stevezshen.github.io)\*, [Chen Z.](https://hudsonchen.github.io)\*, **Meunier D.**, [Steinwart I.](https://www.isa.uni-stuttgart.de/en/institute/team/Steinwart-00002/), [Li Z.](https://zhuli-michael.github.io), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Nonparametric Instrumental Variable Regression with Observed Covariates. Available on [2511.19404](https://arxiv.org/abs/2511.19404). Submitted.
 
@@ -51,10 +51,10 @@ Publications
 
 <em> Conference </em>
 
-- **Meunier D.**\*, Wornbard J.\*, [Kostic V.](https://vladi-iit.github.io)\*, [Moulin A.](https://antoine-moulin.github.io), [Fröhlich A.](https://alekfrohlich.github.io), [Lounici K.](https://klounici.github.io), [Pontil M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Outcome-Aware Spectral Feature Learning
+- **Meunier D.**\*, [Wornbard J.](https://scholar.google.com/citations?user=D5YOqUEAAAAJ&hl=en)\*, [Kostic V.](https://vladi-iit.github.io)\*, [Moulin A.](https://antoine-moulin.github.io), [Fröhlich A.](https://alekfrohlich.github.io), [Lounici K.](https://klounici.github.io), [Pontil M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Outcome-Aware Spectral Feature Learning
 for Instrumental Variable Regression. Available on [arxiv:2512.00919](https://arxiv.org/abs/2512.00919). To appear ICML 2026.
 
-- **Meunier D.**, [Moulin A.](https://antoine-moulin.github.io), Wornbard J., [Kostic V.](https://vladi-iit.github.io), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Demystifying Spectral Feature Learning for Instrumental Variable Regression. Available on [arxiv:2506.10899](https://arxiv.org/abs/2506.10899). To appear NeurIPS 2025.
+- **Meunier D.**, [Moulin A.](https://antoine-moulin.github.io), [Wornbard J.](https://scholar.google.com/citations?user=D5YOqUEAAAAJ&hl=en), [Kostic V.](https://vladi-iit.github.io), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Demystifying Spectral Feature Learning for Instrumental Variable Regression. Available on [arxiv:2506.10899](https://arxiv.org/abs/2506.10899). To appear NeurIPS 2025.
 
 - [Mollenhauer M.](https://scholar.google.de/citations?user=nxIcGXwAAAAJ&hl=en), [Mücke N.](https://nicole-muecke.jimdosite.com), **Meunier D.**, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Regularized least squares learning with heavy-tailed noise is minimax optimal. Available on [arxiv:2505.14214](https://arxiv.org/abs/2505.14214). To appear NeurIPS 2025 (Spotlight).
 
