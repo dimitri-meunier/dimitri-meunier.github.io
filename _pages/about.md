@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, welcome to my homepage.
 
-I am a PhD candidate in the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/study-and-work/phd-programme) at [UCL](https://www.ucl.ac.uk) working with [Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/).
+I am a PhD candidate in the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/study-and-work/phd-programme) at [UCL](https://www.ucl.ac.uk) working with [Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/). I am spending the summer at Netflix in the Machine Learning and Inference Research (MLIR) team as a visiting research scientist working with [Aurelien Bibaut](https://scholar.google.com/citations?user=N_8WC5oAAAAJ&hl=en) and [Nathan Kallus](https://nathankallus.com/).
 
 Previously, I was a research assistant at the [Istituto Italiano di Tecnologia](https://iit.it) in the [Computational Statistics and Machine Learning](https://www.iit.it/research/lines/computational-statistics-and-machine-learning) team in Genoa, working with [Massimiliano Pontil](https://scholar.google.com/citations?user=lcOacs8AAAAJ&hl=en) and [Carlo Ciliberto](https://scholar.google.com/citations?user=XUcUAisAAAAJ&hl=en). From May 2020 to November 2020, I was a (remote) research intern with [Pierre Alquier](https://pierrealquier.github.io) and [Emtiyaz Khan](https://emtiyaz.github.io) in the [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io "ApproxBayesTeam") of the [RIKEN Center for Advanced Intelligence Project](https://aip.riken.jp "RikenAIP") in Tokyo.
 
@@ -89,7 +89,7 @@ for Instrumental Variable Regression. Available on [arxiv:2512.00919](https://ar
 Teaching
 ======
 - Invited speaker at the [Probabilistic AI School](https://probai.school/) -  3h class on Kernel Nethods, Vilnius, August 2026
-- [Gatsby Bridging Programme](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-bridging-programme) - Linear Algebre - 2024 & 2025
+- [Gatsby Bridging Programme](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-bridging-programme) - Linear Algebra - 2024 & 2025
 - Advanced Topics in Machine Learning, [Kernel Methods](http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html) - Computational Statistics and Machine Learning MSc - UCL - Fall 2022 & 2023 with [Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/)
 - Introduction to stochastic processes - Graduate (M1) - ENSAE Paris - Fall 2020 with [Nicolas Chopin](https://nchopin.github.io)
 - Tutor for first year students in Linear Algebra and Functional Analysis - Université Paris Dauphine - Fall 2017
