@@ -26,11 +26,9 @@ At RIKEN I worked on the theoretical aspects of Variational Inference and meta l
 <!--Submitted preprints
 ====== -->
 
-Publications
-======
-<em> Preprints </em>
+## Publications
 
-
+### Preprints
 
 - **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Christensen T.](https://tmchristensen.com), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Nonparametric Instrumental Regression via Kernel Methods is Minimax Optimal. Available on [arxiv:2411.19653](https://arxiv.org/abs/2411.19653). Submitted.
 
@@ -42,7 +40,7 @@ Publications
   
 -  [Shen Z.](https://stevezshen.github.io), **Meunier D.**, [Zenati H.](https://houssamzenati.github.io), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Kallus N.](https://nathankallus.com), [Bibaut A.](https://scholar.google.com/citations?user=N_8WC5oAAAAJ&hl=en), Instrumental Variable Analysis Without Structural Equations. Available on [arxiv:2604.24660](https://arxiv.org/abs/2604.24660). Work in progress.
 
-<em> Journal </em>
+### Journal
 
 - **Meunier D.**\*, [Li Z.](https://zhuli-michael.github.io)\*, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Kpotufe S.](http://www.columbia.edu/~skk2175/), [Nonlinear Meta-Learning Can Guarantee Faster Rates](https://epubs.siam.org/doi/abs/10.1137/24M1662977?af=R). SIAM Journal on Mathematics of Data Science, 2025, vol. 7, no. 4, pp. 1594-1615. Available on [arxiv:2307.10870](https://arxiv.org/abs/2307.10870).
 
@@ -51,7 +49,7 @@ Publications
 - **Meunier D.**, [Alquier P.](https://pierrealquier.github.io/index.html), [Meta-strategy for Learning Tuning Parameters with Guarantees](https://www.mdpi.com/1099-4300/23/10/1257). Entropy, 2021, vol. 23, no. 10, 1257. Part of the special issue on [Approximate Bayesian Inference](https://www.mdpi.com/journal/entropy/special_issues/approx_Bayes_inference). Available on [arXiv:2102.02504](https://arxiv.org/abs/2102.02504). 
 <!-- <img src="../images/metagraph.png" width="700"> [Code](../files/supplement.zip)-->
 
-<em> Conference </em>
+### Conference
 
 - **Meunier D.**\*, [Wornbard J.](https://scholar.google.com/citations?user=D5YOqUEAAAAJ&hl=en)\*, [Kostic V.](https://vladi-iit.github.io)\*, [Moulin A.](https://antoine-moulin.github.io), [Fröhlich A.](https://alekfrohlich.github.io), [Lounici K.](https://klounici.github.io), [Pontil M.](http://www0.cs.ucl.ac.uk/staff/m.pontil/), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Outcome-Aware Spectral Feature Learning
 for Instrumental Variable Regression. Available on [arxiv:2512.00919](https://arxiv.org/abs/2512.00919). To appear ICML 2026.
