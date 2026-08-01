@@ -86,11 +86,11 @@ for Instrumental Variable Regression. Available on [arxiv:2512.00919](https://ar
 - [Meta Learning Meets Variational Inference, Learning Priors with Guarantees.](../files/RikenReport.pdf) (2020)
 -->
 
-(* Equal contribution)
+\* Denotes equal contribution.
 
 Teaching
 ======
-- Invited speaker at the [Probabilistic AI School](https://probai.school/) -  3h class on Kernel Nethods, Vilnius, August 2026
+- Invited speaker at the [Probabilistic AI School](https://probai.school/) - three-hour lecture on Kernel Methods, Vilnius, August 2026
 - [Gatsby Bridging Programme](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-bridging-programme) - Linear Algebra - 2024 & 2025
 - Advanced Topics in Machine Learning, [Kernel Methods](http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html) - Computational Statistics and Machine Learning MSc - UCL - Fall 2022 & 2023 with [Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/)
 - Introduction to stochastic processes - Graduate (M1) - ENSAE Paris - Fall 2020 with [Nicolas Chopin](https://nchopin.github.io)
