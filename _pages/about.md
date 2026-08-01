@@ -111,17 +111,21 @@ Reading groups
 
 Attendance
 ======
+- [ICML](https://icml.cc/Conferences/2026), Seoul, 2026
+- [Advances in Adaptive Experimentation Workshop](https://aae-workshop.github.io/info/), London, 2026
+- [Causality and machine learning](https://www.newton.ac.uk/event/cifw04/), Isaac Newton Institute for Mathematical Sciences, Cambridge, 2026
+- [Causality and machine learning](https://www.newton.ac.uk/event/cifw05/), Isaac Newton Institute for Mathematical Sciences, Cambridge, 2026
 - [NeurIPS](https://neurips.cc/Conferences/2025), San Diego, 2025 
 - [Mathematical Aspects of Data Science Graduate Summer School](https://mathsdata2025.github.io), EPFL, Switzerland, 2025  
 - [AISTATS](https://virtual.aistats.org/Conferences/2025), Phuket, 2025
 - [ICLR](https://iclr.cc/Conferences/2025), Singapore, 2025
-- [2nd RSS/Turing Workshop on Gradient Flows for Sampling, Inference, and Learning](https://rss.org.uk/training-events/events/events-2025/section-groups/2nd-rss-turing-workshop-on-gradient-flows-for-samp/), The Alan Turing Institute, 2025
+- [2nd RSS/Turing Workshop on Gradient Flows for Sampling, Inference, and Learning](https://rss.org.uk/training-events/events/events-2025/section-groups/2nd-rss-turing-workshop-on-gradient-flows-for-samp/), The Alan Turing Institute, London, 2025
 - [NeurIPS](https://nips.cc/Conferences/2024), Vancouver, 2024
-- [Learning and Optimization in Luminy – LOL](https://conferences.cirm-math.fr/3003.html), CIRM, Luminy,  2024
-- [Workshop on Functional Inference and Machine Intelligence - FIMI](https://ismseminar.github.io/fimi2024/), Bristol, UK, 2024
+- [Learning and Optimization in Luminy – LOL](https://conferences.cirm-math.fr/3003.html), CIRM, Luminy, 2024
+- [Workshop on Functional Inference and Machine Intelligence - FIMI](https://ismseminar.github.io/fimi2024/), Bristol, 2024
 - [Machine Learning Summer School](https://groups.oist.jp/mlss), OIST, Okinawa, 2024
-- [Gradient Flows For Sampling, Inference, and Learning](https://rss.org.uk/training-events/events/events-2023/sections/gradient-flows-for-sampling,-inference,-and-learni/#eventoverview), Royal Statistical Society, 2023 
-- [Meeting in Mathematical Statistics](https://www.i2m.univ-amu.fr/evenements/meeting-in-mathematical-statistics-2022/), CIRM, Luminy,  2022
+- [Gradient Flows For Sampling, Inference, and Learning](https://rss.org.uk/training-events/events/events-2023/sections/gradient-flows-for-sampling,-inference,-and-learni/#eventoverview), Royal Statistical Society, London, 2023 
+- [Meeting in Mathematical Statistics](https://www.i2m.univ-amu.fr/evenements/meeting-in-mathematical-statistics-2022/), CIRM, Luminy, 2022
 - [NeurIPS](https://nips.cc/Conferences/2022), New Orleans, 2022
 - [ICML](https://icml.cc/Conferences/2022), Baltimore, 2022
 - [COLT](https://learningtheory.org/colt2022/), London, 2022
