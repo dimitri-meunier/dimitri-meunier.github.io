@@ -36,7 +36,7 @@ Publications
 
 - [Wornbard J.](https://scholar.google.com/citations?user=D5YOqUEAAAAJ&hl=en)\*, [Shen Z.](https://stevezshen.github.io)\*, **Meunier D.**, [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Semiparametrically Efficient Inference for Kernel Measures of Noise Heterogeneity. Available on [arxiv:2605.27526](https://arxiv.org/abs/2605.27526). Submitted.
 
-- [Shen Z.](https://stevezshen.github.io)\*, [Chen Z.](https://hudsonchen.github.io)\*, **Meunier D.**, [Steinwart I.](https://www.isa.uni-stuttgart.de/en/institute/team/Steinwart-00002/), [Li Z.](https://zhuli-michael.github.io), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Nonparametric Instrumental Variable Regression with Observed Covariates. Available on [2511.19404](https://arxiv.org/abs/2511.19404). Submitted.
+- [Shen Z.](https://stevezshen.github.io)\*, [Chen Z.](https://hudsonchen.github.io)\*, **Meunier D.**, [Steinwart I.](https://www.isa.uni-stuttgart.de/en/institute/team/Steinwart-00002/), [Li Z.](https://zhuli-michael.github.io), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), Nonparametric Instrumental Variable Regression with Observed Covariates. Available on [arxiv:2511.19404](https://arxiv.org/abs/2511.19404). Submitted.
 
 - [Bozkurt B.](https://scholar.google.com/citations?user=bxD9hhUAAAAJ&hl=en), [Galashov A.](https://scholar.google.com/citations?user=kIpoNtcAAAAJ&hl=en), **Meunier D.**, [Shen Z.](https://stevezshen.github.io), [Gretton A.](https://www.gatsby.ucl.ac.uk/~gretton/), [Zenati H.](https://houssamzenati.github.io), Doubly Robust Proxy Causal Learning with Neural Mean Embeddings. Submitted.
   
@@ -90,7 +90,7 @@ for Instrumental Variable Regression. Available on [arxiv:2512.00919](https://ar
 
 Teaching
 ======
-- Invited speaker at the [Probabilistic AI School](https://probai.school/) - three-hour lecture on Kernel Methods, Vilnius, August 2026
+- Invited lecturer, [Probabilistic AI School](https://probai.school/) — three-hour lecture on kernel methods, Vilnius, August 2026
 - [Gatsby Bridging Programme](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-bridging-programme) - Linear Algebra - 2024 & 2025
 - Advanced Topics in Machine Learning, [Kernel Methods](http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html) - Computational Statistics and Machine Learning MSc - UCL - Fall 2022 & 2023 with [Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/)
 - Introduction to stochastic processes - Graduate (M1) - ENSAE Paris - Fall 2020 with [Nicolas Chopin](https://nchopin.github.io)
