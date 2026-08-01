@@ -114,7 +114,7 @@ Attendance
 - [ICML](https://icml.cc/Conferences/2026), Seoul, 2026
 - [Advances in Adaptive Experimentation Workshop](https://aae-workshop.github.io/info/), London, 2026
 - [Causality and machine learning](https://www.newton.ac.uk/event/cifw04/), Isaac Newton Institute for Mathematical Sciences, Cambridge, 2026
-- [Causality and machine learning](https://www.newton.ac.uk/event/cifw05/), Isaac Newton Institute for Mathematical Sciences, Cambridge, 2026
+- [Causal machine learning for the social sciences](https://www.newton.ac.uk/event/cifw05/), Isaac Newton Institute for Mathematical Sciences, Cambridge, 2026
 - [NeurIPS](https://neurips.cc/Conferences/2025), San Diego, 2025 
 - [Mathematical Aspects of Data Science Graduate Summer School](https://mathsdata2025.github.io), EPFL, Switzerland, 2025  
 - [AISTATS](https://virtual.aistats.org/Conferences/2025), Phuket, 2025
