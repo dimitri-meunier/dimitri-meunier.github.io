@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my homepage.
+I am a PhD candidate at the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/study-and-work/phd-programme) at [UCL](https://www.ucl.ac.uk), working with [Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/). 
 
-I am a PhD candidate in the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/study-and-work/phd-programme) at [UCL](https://www.ucl.ac.uk) working with [Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/). I am spending the summer at Netflix in the Machine Learning and Inference Research (MLIR) team as a visiting research scientist working with [Aurelien Bibaut](https://scholar.google.com/citations?user=N_8WC5oAAAAJ&hl=en) and [Nathan Kallus](https://nathankallus.com/).
+During summer 2026, I am a visiting research scientist with Netflix’s Machine Learning and Inference Research (MLIR) team, working with [Aurelien Bibaut](https://scholar.google.com/citations?user=N_8WC5oAAAAJ&hl=en) and [Nathan Kallus](https://nathankallus.com/).
 
-Previously, I was a research assistant at the [Istituto Italiano di Tecnologia](https://iit.it) in the [Computational Statistics and Machine Learning](https://www.iit.it/research/lines/computational-statistics-and-machine-learning) team in Genoa, working with [Massimiliano Pontil](https://scholar.google.com/citations?user=lcOacs8AAAAJ&hl=en) and [Carlo Ciliberto](https://scholar.google.com/citations?user=XUcUAisAAAAJ&hl=en). From May 2020 to November 2020, I was a (remote) research intern with [Pierre Alquier](https://pierrealquier.github.io) and [Emtiyaz Khan](https://emtiyaz.github.io) in the [Approximate Bayesian Inference Team](https://team-approx-bayes.github.io "ApproxBayesTeam") of the [RIKEN Center for Advanced Intelligence Project](https://aip.riken.jp "RikenAIP") in Tokyo.
+Before starting my PhD, I was a research assistant with the [Computational Statistics and Machine Learning](https://www.iit.it/research/lines/computational-statistics-and-machine-learning) group at the [Istituto Italiano di Tecnologia](https://iit.it) in Genoa, where I worked with [Massimiliano Pontil](https://scholar.google.com/citations?user=lcOacs8AAAAJ&hl=en) and [Carlo Ciliberto](https://scholar.google.com/citations?user=XUcUAisAAAAJ&hl=en). In 2020, I was also a remote research intern with [Pierre Alquier](https://pierrealquier.github.io) and [Emtiyaz Khan](https://emtiyaz.github.io) in the [Approximate Bayesian Inference](https://team-approx-bayes.github.io "ApproxBayesTeam") team at the [RIKEN Center for Advanced Intelligence Project](https://aip.riken.jp "RikenAIP") in Tokyo.
 
 <!-- 
+
+Hi, welcome to my homepage.
 I graduated the Master [MVA](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/) (Machine Learning and Computer Vision) from [ENS Paris Saclay](https://ens-paris-saclay.fr/en) and obtained the engineering degree of [ENSAE](https://www.ensae.fr/en/) specialising in Statistics. 
 
 Prior to that, I received a BSc in Mathematics from the [Université Paris Dauphine](https://dauphine.psl.eu/en/) and spent a semester at the [University of Honk Kong](https://www.hku.hk). 
