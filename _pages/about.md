@@ -88,8 +88,8 @@ for Instrumental Variable Regression. Available on [arxiv:2512.00919](https://ar
 
 Teaching
 ======
-- Invited speaker at the [Probabilistic AI School](https://probai.school/), 3h class on kernel methods, Vilnius, August 2026
-- [Gatsby Bridging Programme](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-bridging-programme) - 2024 & 2025
+- Invited speaker at the [Probabilistic AI School](https://probai.school/) -  3h class on Kernel Nethods, Vilnius, August 2026
+- [Gatsby Bridging Programme](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-bridging-programme) - Linear Algebre - 2024 & 2025
 - Advanced Topics in Machine Learning, [Kernel Methods](http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html) - Computational Statistics and Machine Learning MSc - UCL - Fall 2022 & 2023 with [Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/)
 - Introduction to stochastic processes - Graduate (M1) - ENSAE Paris - Fall 2020 with [Nicolas Chopin](https://nchopin.github.io)
 - Tutor for first year students in Linear Algebra and Functional Analysis - Université Paris Dauphine - Fall 2017
